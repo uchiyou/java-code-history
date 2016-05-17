@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+/**对表格中的无序列表ul进行样式定义
+    1 去除无序列表样式
+	2 将列表外边距取消
+*/
+table tr ul{
+	list-style:none;
+	margin:0px;
+	padding:2px;
+	display:none;
+}
+
+table{
+	border:#04c 2px solid;
+	width:100px;
+	padding:5px;
+	background-color:#3F6;
+}
+table tr{
+	border:#8d0 2px solid;
+	background-color:#F9F;
+}
+
+table tr td a:link,table tr td a :visited{
+	text-decoration:none;
+	color:#F0F;
+}
+
+table tr td a:hover{
+	color:#90C;
+}
+
+/**预定义一些样式*/
+.open{
+	display:block;
+}
+.close{
+	display:none;
+}
+
+	
+</style>
+</head>
+
+<body>
+<script type="text/javascript">
+/*
+function show(node){
+	//获取操作节点
+	//先通过超链接节点获取父节点，再通过getElementsByTagName获取ul节点
+	var fnode=node.parentNode;
+	var ulNode=fnode.getElementsByTagName("ul")[0];
+	
+//	alert(ulNode.nodeName);
+    if(ulNode.className=="open"){
+		ulNode.className="close";
+	}
+	else{
+		ulNode.className="open";
+	}
+}
+*/
+//需求：一次只能打开一个列表
+
+function show(node){
+	//获取当前节点
+	var tdNode=node.parentNode;
+	var ulNode=tdNode.getElementsByTagName("ul")[0];
+	//遍历节点
+	var tableNode=document.getElementById("friends");
+	var ulNodes=tableNode.getElementsByTagName("ul");
+	
+	for(var i=0;i<ulNodes.length;i++){
+		if(ulNodes[i]==ulNode){
+			if(ulNode.className=="open"){
+				ulNode.className="close";
+			}
+			else{
+				ulNode.className="open";
+			}
+		}
+		else{
+			ulNodes[i].className="close";
+		}
+	}
+	
+}
+	
+
+</script>
+
+<table id="friends"><!---表格标签-->
+        <tr><!---表格中的单元格标签-->
+             <td>
+                  <a href="javascript:void(0)" onclick="show(this)"> 好友菜单</a><!--取消默认超链接效果--->
+                  <ul><!---无序列表标签 --->
+                       <li>旺旺</li>
+                       <li>强哥</li>
+                       <li>旺旺</li>
+                       <li>强哥</li>
+                  </ul>
+             </td>
+         </tr>
+         
+         <tr>
+         
+             <td>
+                  <a href="javascript:void(0)" onclick="show(this)"> 好友菜单</a>
+                  <ul><!---无序列表标签 --->
+                       <li>旺旺</li>
+                       <li>强哥</li>
+                       <li>旺旺</li>
+                       <li>强哥</li>
+                  </ul>
+             </td>
+         </tr>
+         
+         <tr>
+             <td>
+                  <a href="javascript:void(0)" onclick="show(this)"> 好友菜单</a>
+                  <ul><!---无序列表标签 --->
+                       <li>旺旺</li>
+                       <li>强哥</li>
+                       <li>旺旺</li>
+                       <li>强哥</li>
+                  </ul>
+             </td>
+         </tr>
+         
+         
+</table>
+</body>
+</html>

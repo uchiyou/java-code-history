@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="table.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<!--
+<style type="text/css">
+.single{
+	background-color:#30F;
+}
+.double
+{
+	background-color:#690;
+}
+.mouseon{
+	background-color:#0F7;
+}
+
+</style>
+-->s
+</head>
+
+<body>
+
+<script type="text/javascript">
+function setColor(){
+	
+	var temp;
+	//获取邮件所在的table
+	var mtable=document.getElementById("mailtable");
+	//遍历其中所有的行
+	var mrows=mtable.rows;
+	//设置颜色
+	for(var i=1;i<mrows.length;i++)
+	{
+		if(i%2==1){
+		mrows[i].className="single";
+		}
+		else{
+			mrows[i].className="double";
+		}
+		mrows[i].onmouseover=function(){
+			temp=this.className;
+			this.className="mouseon";
+		}
+		mrows[i].onmouseout=function(){
+			this.className=temp;
+		}
+	}
+	
+	}
+
+
+	//全选效果
+	function selectAll(){
+		//获取复选框的对象集合
+		var cboxes=document.getElementsByName("mail");
+		var abox=document.getElementsByName("selectall")[0];
+		//遍历复选框集合
+		for(var i=0;i<cboxes.length;i++){
+			cboxes[i].checked=abox.checked;
+		}
+		//全选完成后将复选框的字改为取消全选
+		var span=document.getElementById("spanid");
+		if(abox.checked){
+		span.innerHTML="取消全选";
+		}
+		else{
+			span.innerHTML="全选";
+		}
+	}
+	
+	function sAll()
+	{
+		var abox=document.getElementsByName("selectall")[0];
+		if(!abox.checked){
+			abox.checked=true;
+			selectAll();
+		}
+		
+	}
+	
+	function selectOther(){
+		var boxes=document.getElementsByName("mail");
+		
+		for(var i=0;i<boxes.length;i++){
+			/*if(boxes[i].checked){
+				boxes[i].checked=false;
+			}
+			else{
+				boxes[i].checked=true;
+			}
+			*/
+			boxes[i].checked=!boxes[i].checked;
+		}
+	}
+	/*
+	function delMail(){
+		//获取要操作的对象
+		var boxes=document.getElementsByName("mail");
+		var table=document.getElementById("mailtable");
+		//遍历checkbox
+		var len=boxes.length;
+		for(var i=0;i<9;i++){
+			if(boxes[i].checked){
+				table.deleteRow(i+1);
+			}
+			else{
+				
+			}
+			
+		}
+	}
+	*/
+	function delMail(){
+		
+		
+		var boxes=document.getElementsByName("mail");
+		var len=boxes.length;
+		if(confirm("你真的要删除所选内容吗?")){//确认弹出框
+		for(var i=0;i<len;i++){
+			 
+			if(boxes[i].checked){
+				var trNode=boxes[i].parentNode.parentNode;
+				trNode.parentNode.removeChild(trNode);
+				i--;
+			}
+		}
+		}
+		
+	}
+	
+	
+		
+	onload=function(){
+		
+		setColor();
+	}
+</script>
+
+
+<table id="mailtable">
+<tr>
+                              <th>
+                              <input type="checkbox" name="selectall" onclick="selectAll()"/>
+                              <span id="spanid">
+                              全选
+                              </span>
+                              </th>
+                              <th>发件人</th>
+                              <th>邮件名称</th>
+                              <th>邮件信息</th>
+                       
+                       </tr>
+                        <tr>
+                              <td><input type="checkbox" name="mail" /></td>
+<td>过客</td>
+                              <td>邮件１</td>
+                              <td>邮件信息部分显示区</td>
+                       </tr>
+                        <tr>
+                              <td><input type="checkbox" name="mail" /></td>
+<td>逆旅</td>
+                              <td>邮件２</td>
+                              <td>邮件信息部分显示区</td>
+                       </tr>
+                        <tr>
+                              <td><input type="checkbox" name="mail" /></td>
+<td>小强</td>
+                              <td>邮件３</td>
+                              <td>邮件信息部分显示区</td>
+                       </tr>
+                        <tr>
+                              <td><input type="checkbox" name="mail" /></td>
+<td>旺旺</td>
+                              <td>邮件４</td>
+                              <td>邮件信息部分显示区</td>
+                       </tr>
+                        <tr>
+                              <td><input type="checkbox" name="mail" /></td>
+<td>十步无痕</td>
+                              <td>邮件５</td>
+                              <td>邮件信息部分显示区</td>
+                       </tr>
+                       <tr>
+                              <td><input type="checkbox" name="mail" /></td>
+<td>马大哈</td>
+                              <td>邮件６</td>
+                              <td>邮件信息部分显示区</td>
+                       </tr>
+                        <tr>
+                              <td><input type="checkbox" name="mail" /></td>
+<td>我！＝最</td>
+                              <td>邮件７</td>
+                              <td>邮件信息部分显示区</td>
+                       </tr>
+                         <tr>
+                              <td><input type="checkbox" name="mail" /></td>
+<td>半城烟雨</td>
+                              <td>邮件８</td>
+                              <td>邮件信息部分显示区</td>
+                       </tr>
+                        <tr>
+                              <td><input type="checkbox" name="mail" /></td>
+                              <td>似水</td>
+                              <td>邮件９</td>
+                              <td>邮件信息部分显示区</td>
+                       </tr>
+                       <tr> 
+                              <td>
+                              <input type="button" value="全选" onclick="sAll()" />
+                              </td>
+                              <td>
+                              <input type="button" value="反选" onclick="selectOther()" />
+                              </td>
+                              <td>
+                              <input type="button" value="删除" onclick="delMail()"/>
+                              </td>
+                        </tr>
+                       
+</table>
+
+</body>
+</html>

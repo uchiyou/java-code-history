@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="pre.css" id="preCSS" /><!---用于载入css文件-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+/** 超链接点击前后效果一样*/
+a:link,a:visited {
+     color:#33C;
+	 text-decoration:none;	/*没有下划线修饰*/
+}
+a:hover{/*当光标放在超链接上时，字体颜色改变*/
+	color:#ff00ff;
+}
+#newsBody{/*修饰id，前边要加#号, 此为id选择器*/
+	width:400px;
+	border:#369 20px solid;/*用盒子封装*/
+	padding:50px;
+}
+
+/*预定义一些类选择器*/
+.norm{
+	color:#06F;
+	font-size:18px;
+	background-color:#990;
+}
+.max{
+	color:#C3C;
+	font-size:24px;
+	background-color:#090;
+}
+.mid{
+	color:#60F;
+	font-size:18px;
+	background-color:#800;
+}
+.min{
+	color:#F0F;
+	font-size:14px;
+	background-color:#009;
+}
+	
+
+</style>
+</head>
+
+<body>
+<!--
+      需求：　新闻中字体大小样式的改变
+      
+      思路：　
+      　　　　１　先有新闻数据，用标签封装
+      　　　　２　定义一些页面样式
+      　　　　３　确定事件源和事件，以及处理方式中被处理的节点
+      事件源：　a标签　，　事件：　onclick ,被处理的节点：　div-newsBody
+      
+      既然要给超链接加入自定义的事件处理，就要取消超链接的默认点击效果(　链接到当前文件目录，若href="#"，链接到当前网页）
+      可以用href="javascript:void(0)"来调用javascript引擎来完成
+-->
+<h1> Head News of Today</h1>
+<hr />
+<script type="text/javascript">
+/*
+function changeSize(size,color){//若样式定义好了，却没有加载，很有可能是优先级弄错了
+                          //优先级　：style>id选择器>类选择器    css中的类选择器>html标签的类选择器
+         var divNode=document.getElementById("newsBody");
+		 divNode.style.fontSize=size;	
+		 divNode.style.color=color;
+}
+
+若果根据用户点击的效果不唯一
+仅通过传递多个参数虽然可以实现
+但是
+１　参数过多，阅读性差
+２　js 代码和css代码耦合性高
+３　不利于扩展
+
+解决：
+将多个样式进行封装
+封装到不同选择器中，只要将选择器作为参数传递即可
+*/
+function change(iteratorClass){
+	var divNode=document.getElementById("newsBody");
+	divNode.className=iteratorClass;
+}
+	
+</script>
+<!--
+<a href="javascript:void(0)" onclick="changeSize('12px','#880000')">small size</a>
+&nbsp&nbsp&nbsp
+<a href="javascript:void(0)" onclick="changeSize('18px','#008880')">medium size</a>
+&nbsp&nbsp&nbsp
+<a href="javascript:void(0)" onclick="changeSize('24px','#000077')">big size</a>
+
+若样式繁琐，最好使用类选择器
+-->
+<a href="javascript:void(0)" onclick="change('min')">small size</a>
+&nbsp&nbsp&nbsp
+<a href="javascript:void(0)" onclick="change('mid')">medium size</a>
+&nbsp&nbsp&nbsp
+<a href="javascript:void(0)" onclick="change('max')">big size</a>
+<br/>
+<!--    <div id="newsBody" style="font-size:18px" class="norm">   -->
+<div id="newsBody" class="norm">
+此为今日头条的内容<br />
+gooole投资海底光缆的铺设<br />
+facebook成最大的开源公司<br/>
+此为今日头条的内容<br />
+gooole投资海底光缆的铺设<br />
+facebook成最大的开源公司<br/>
+此为今日头条的内容<br />
+gooole投资海底光缆的铺设<br />
+facebook成最大的开源公司<br/>
+此为今日头条的内容<br />
+gooole投资海底光缆的铺设<br />
+facebook成最大的开源公司<br/>
+此为今日头条的内容<br />
+gooole投资海底光缆的铺设<br />
+facebook成最大的开源公司<br/>
+此为今日头条的内容<br />
+gooole投资海底光缆的铺设<br />
+facebook成最大的开源公司<br/>
+此为今日头条的内容<br />
+gooole投资海底光缆的铺设<br />
+facebook成最大的开源公司<br/>
+此为今日头条的内容<br />
+gooole投资海底光缆的铺设<br />
+facebook成最大的开源公司<br/>
+此为今日头条的内容<br />
+gooole投资海底光缆的铺设<br />
+facebook成最大的开源公司<br/>
+</div>
+
+
+</body>
+</html>
