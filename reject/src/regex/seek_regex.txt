@@ -1,0 +1,25 @@
+                            
+                            a trouble block
+                            
+                            
+                     	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str="two day later,I will go home";
+		String regex="[a-z]{4}";
+		
+		//将正则封装成对象
+		Pattern pattern = Pattern.compile(regex);
+		//通过正则对象获取匹配器对象
+		Matcher matcher=pattern.matcher(str);
+		//使用matcher对象的方法对字符串进行操作
+		//要获取指定字符串
+		//使用查找find
+		
+		
+		while(matcher.find()){//find() only can find once
+		System.out.println(matcher.group());
+		
+		System.out.println(matcher.start()+":"+matcher.end()+":");//is equals to indexOf() method
+		}
+
+	}

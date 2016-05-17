@@ -1,0 +1,27 @@
+在  WaitNotify.java 中，
+要是get先执行，则发现是FALSE就在锁里边等待，
+而Input无法进入锁中，自然无法唤醒get
+不就是死锁了吗？？？？？？
+我先开始get，让主线程sleep
+再开始input，按道理input无法进入锁中
+无法唤醒get，成为死锁，
+      可是运行程序，一切正常？？？它能进入锁中，唤醒get？？？？？
+      
+      
+      
+      
+      current answer :
+      
+      from the api :
+      
+      The current thread must own this object's monitor.
+ *****The thread releases ownership of this monitor and waits until **********
+       another thread notifies threads waiting on this object's monitor to wake up 
+       either through a call to the notify method or the notifyAll method. 
+       The thread then waits until it can re-obtain ownership of the monitor and resumes execution. 
+
+      
+      Java中即使在不同的                      .Java文件中
+      在同一个包中不允许出现相同的类名！！！！！！
+      
+      **********因为Java中每一个类都要编译生成.class字节码文件保存在工作区

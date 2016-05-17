@@ -1,0 +1,30 @@
+                         
+                         
+                         
+                         in Spidder2
+                         
+                          /*
+        System.out.println("getContent : "+url.getContent());
+        System.out.println("getHost : "+url.getHost());
+        System.out.println("getPath : "+url.getPath());
+        System.out.println("getPort : "+url.getPort());
+        System.out.println("getProtocol : "+url.getProtocol());
+        System.out.println("getQuery : "+url.getQuery());
+        System.out.println("getFile : "+url.getFile());
+        System.out.println("getRef : "+url.getRef());
+        System.out.println("getUserInfo : "+url.getUserInfo());
+        System.out.println("getClass :" +url.getClass());
+        
+        
+        getContent : sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@1f194a4e
+getHost : 211.137.133.5
+getPath : /
+getPort : -1
+getProtocol : http
+getQuery : wlanacname=0109.0029.290.00&wlanuserip=10.71.28.184&ssid=CMCC-EDU&vlan=3006
+getFile : /?wlanacname=0109.0029.290.00&wlanuserip=10.71.28.184&ssid=CMCC-EDU&vlan=3006
+getRef : null
+getUserInfo : null
+getClass :class java.net.URL
+
+        */

@@ -1,0 +1,25 @@
+when we want to delete a object in a collection ,we should override two method
+                              hashCode();
+                              equals();
+
+In interface : List   (has its own order,base on array[],allow equals objects)
+
+                  its contains()   remove()   removeAll() and so on methods is depend on 
+                  equals() method to judge two or more elements is equals
+                  
+                  so when we add class our own define:
+                  must override equals() method 
+                  
+In interface : Set    (has no order,accorder to hash Code,forbid equals objects)
+
+                its almost methods is base on
+                hashCode() and equals();
+                first accord to objects' hashCode() to seek it's position 
+                then judge the position whether has a object then judge the two 
+                object is equals,if equals then use another hash calculate connect with 
+                the position to seek another position or search on the next position
+                
+                so when we add class our own define:
+                must override   equals() and hashCode();
+               
+                 

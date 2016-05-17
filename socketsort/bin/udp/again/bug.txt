@@ -1,0 +1,11 @@
+
+
+
+                              in talk, the receive can show the port and InetAddress,
+                              but can't show the data content
+                              
+                              
+                              
+                              the string is easily to be overwrite 
+                              while the latter is shorter than the before ,
+                              it's a trouble

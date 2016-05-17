@@ -1,0 +1,1486 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=9" />
+		<meta http-equiv="content-type" content="text/html;charset=gbk" />
+		<meta property="wb:webmaster" content="3aababe5ed22e23c" />
+		<title>一台主机的IP地址有多少个端口_百度知道</title>
+		
+<script type="text/javascript">
+//
+void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","http://img.baidu.com/hunter/alog.min.js","alog");
+//
+void function(e,o){var t,n="Other";(t=/\b(safari|firefox|chrome|opera)\b.*?(\d+)/i.exec(o))&&(n=t[1]),(t=/MSIE ([0-9]*)/.exec(o))&&(n="IE"+t[1]),!/^IE/.test(n)&&(t=/trident\/.* rv:([\w]+)?/i.exec(o))&&(n="IE"+t[1]),/(M?QQBrowser)\/([0-9.]*)/.test(o)&&(n="QQ Browser"),/SE 2.X MetaSr/.test(o)&&(n="Sogou Explorer"),alog("exception.set","browser",n);var r=!1;e.onerror=function(e,o,t,n){var c=!0;return!o&&/^script error/i.test(e)&&(r?c=!1:r=!0),c&&alog("exception.send","exception",{msg:e,js:o,ln:t,col:n}),!1},alog("exception.on","catch",function(e){alog("exception.send","exception",{msg:e.msg,js:e.path,ln:e.ln,method:e.method,flag:"catch"})}),alog("exception.on","count",function(e){alog("exception.send","exception",{msg:e.toString(),flag:"count"})})}(window,navigator.userAgent);
+</script>
+
+		        
+<meta name="keywords" content="主机,ip地址,端口"/>
+<meta name="description" content="一台主机的IP地址有多少个端口TCP&amp;#47;IP使用的端口范围是0-65535，可以分为三大类：   (1) 公认端口（Well Known Ports）：从0到1023，它们紧密绑定于一些服务。通常这些端口的通讯明确表明了某种服务的协议。例如"/>
+<link rel="canonical" href="http://zhidao.baidu.com/question/19606754.html"/>
+<script>
+    if (location.hash && location.hash.indexOf('bdres2exe=') > -1) {
+        document.write('<script src="http://m.baidu.com/static/as/res2exe/js/res2exe_1.0.3.min.js?v=091818"></' + 'script>');
+    }
+</script>
+
+		<script type="text/javascript">
+			!function(){var n={},t={};n.context=function(n,e){var i=arguments.length;if(i>1)t[n]=e;else if(1==i){if("object"!=typeof n)return t[n];for(var o in n)n.hasOwnProperty(o)&&(t[o]=n[o])}},"F"in window||(window.F=n)}();;
+																																							
+			F.context('user', {"isLogin":"0","stoken":"","name":"","id":"","wealth":"","gradeIndex":""});
+
+							F.context('defaultQuery', '{"title":"","value":""}');
+																			F.context('zhimaTagOpen', {
+					'open': 1,
+					'url': 'http://zhidao.baidu.com/zhima/',
+					'text': '#芝麻开门#'
+				});
+					</script>
+
+		
+<script type="text/javascript">
+
+    	
+    F.context('page',{
+    	isAdopted: '1'
+                        ,misAsk: '0'
+        ,delAsk: '0'
+        ,isLocked: '0'
+        ,isReplyLocked: '0'
+        ,isFromWap: "0"
+        ,cid: '1039'
+        ,cidTop: '74'
+        ,cidMid: '88'
+        ,qid: '19606754'
+        ,title: '一台主机的IP地址有多少个端口'
+        ,giveScore: '10'
+                ,uid: '9313194'
+        ,imId: 'aa1bc4c7bbaab5c6b3f5c9cf8e00'
+        ,passPhoto: '0'
+                        ,rpRecommand: 'false'                ,rankFile: '1' 
+                ,userName: '那华灯初上'
+        ,user : {
+            sex: '1'
+            ,iconType: '6'
+            ,gradeIndex: '2'
+            ,gradeIndexC: '二'
+                        ,grAnswerNum: '29'
+                                                                                                                        ,goodRate: '8'
+                    }
+                        ,con: ''
+                        ,answerNum: ''
+        ,isView: '1'
+        ,isGetWealth:'0'
+                ,pgcArr: [790,791,792,794,795]
+        ,isPgcArr: '0'
+        ,isCompanyIask: '0'
+        ,bdplayer:'java\/1.6.0_13'
+    });
+    
+        F.context('answers', {});
+    F.context('relateWords', {});
+        F.context('egg', {
+        id: '8'
+        ,flashUrl: 'http:\/\/img.iknow.bdimg.com\/gglft\/gglft_flash.swf'
+        ,onlineTime: '2013-11-15'
+        ,offlineTime: '2013-12-01'
+        ,loginRate: '0.7'
+        ,notLoginRate: '0.3'
+        ,targetUrl: 'http:\/\/zhidao.baidu.com\/s\/gglft\/index.html?isegg=1'
+        ,btnText: '确定'
+        ,dialogText: '恭喜你捡到一张刮刮卡，立刻参与刮刮乐翻天活动，拍立得、iPad mini、iPhone 5手机等超多大奖等你刮出来~'
+        ,dialogBackground: ''
+        ,dialogTextMargin: '0'
+        ,active: '0'
+        ,activeUrl: ''
+        ,activeStatus: ''
+        ,guideLogin: '1'
+        ,dialogTextLogin: ''
+        ,btnTextLogin: ''
+        ,dialogTextActive: ''
+        ,btnTextActive: ''
+        ,dialogBackground: ''
+        ,limitGrade: '0'
+        ,limitGoodRate: '0'
+    });
+            F.context('cmsTopic', [
+                        {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/qinliugan.html',
+            'title': 'H7N9禽流感病毒问题解答',
+            'qid': '538944731,538944974,538945159,538945410,538945640,538945806,538946023,538947972,538948119,538948841,538948985,538949170,538949278,538949607,538951811,538952044,538952289,539260208,539271130,539272340,539272652,539272848,539273004,538758680,537145971,537481975,537482138,537491741,537496345,537145971,539271582,539310838,96016332,16608956,16608956,534580619',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen18.html',
+            'title': '传统医学解读人体奥秘',
+            'qid': '',
+            'expert': '正安中医梁冬,薄化君大夫,罗炳翔大夫'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen17.html',
+            'title': '我们有文化，遇见“流氓”也不怕！',
+            'qid': '',
+            'expert': '打假第一人王海'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/zhichangtiaocao\/index.html',
+            'title': '跳槽前必读8大问题',
+            'qid': '530550652,530550695,530550746,530550777,530550821,530550859,530550898,530550937',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/zhichangmianshi\/index.html',
+            'title': 'HR不懂爱，他的提问你答不来！',
+            'qid': '529252350,529252523,529252831,529253040,529253301,529253429,529256645,529256979,529257198,529257285',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen16.html',
+            'title': '孙云晓解答青春叛逆期教育',
+            'qid': '',
+            'expert': '青研中心孙云晓'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen16.html',
+            'title': '孙宏艳解答青春叛逆期教育',
+            'qid': '',
+            'expert': '青研中心孙宏艳'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen15.html?fr=qbzt',
+            'title': '雷明解答职场中的跳槽疑惑',
+            'qid': '',
+            'expert': '心理咨询雷明'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen15.html?fr=qbzt',
+            'title': '唐宁解答女性职场疑惑',
+            'qid': '',
+            'expert': '职场唐宁'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen14.html?fr=qbzt',
+            'title': '北大售票帝裴济洋教你买票回家！',
+            'qid': '',
+            'expert': 'peijiyang_pku'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/jiaogui.html?fr=qbzt',
+            'title': '权威解读2013驾考新规',
+            'qid': '496005611,105728210',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/shi\/index.html?fr=qbzt',
+            'title': '被误读最深的名言锦句',
+            'qid': '510380393,510380025,510380524,510380639,510380685,510380918,510381072,510380301',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen13.html?fr=qbzt',
+            'title': '交管局李晓东处长解答驾考新规',
+            'qid': '',
+            'expert': '交管局李晓东'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen13.html?fr=qbzt',
+            'title': '交管局李勤处长解读新交规',
+            'qid': '',
+            'expert': '交管局李勤'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen12.html?fr=qbzt',
+            'title': '胡柳解答保险理财',
+            'qid': '',
+            'expert': '保险理财胡柳'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen12.html?fr=qbzt',
+            'title': '魏德善解答证券投资',
+            'qid': '',
+            'expert': '证券专家魏德善'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen06.html?fr=qbzt',
+            'title': '金韵蓉老师教你精油护肤',
+            'qid': '',
+            'expert': 'lafasojyr'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/kuaidu\/suhuaji\/index.html?fr=qbzt',
+            'title': '你的食物含塑化剂吗',
+            'qid': '499771676,274675532,273938276,275181078,274282140,499772730,275226786,274536152,282757232,274210910,275395808,499772593,275355018,274093929',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/kuaidu\/youjia\/index.html?fr=qbzt',
+            'title': '油价是升还是降',
+            'qid': '7701062,7720360,23590745,239386624,302573038,218721231,337321559',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/kuaidu\/2012usa\/index.html?fr=qbzt',
+            'title': '美国总统是如何选出来的',
+            'qid': '494863184,494863014,494869926,494869853,494868987',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/Chicken\/index.html?fr=qbzt',
+            'title': '45天鸡能不能吃',
+            'qid': '503005578,503006139,503006460,503006854,503007374,503007374',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/1942\/index.html?fr=qbzt',
+            'title': '你知道1942吗？',
+            'qid': '502766042,502766042,502647814,502647814,502777253,502776800,502650170,502650170',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/jiehuo\/jiankangyaoyan\/index.html?fr=qbzt',
+            'title': '健康流言知真假',
+            'qid': '178807906,334055366,498402753,291937633,209426382,414548424,7540625,222613405,498406267,498408474,109760622,388525641',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/www.baidu.com\/search\/zhidao\/jingshenbing\/index.html?fr=qbzt',
+            'title': '大家都有病',
+            'qid': '492345830,491605430,492350128,492350240,492350299,281444990,492440880,489745109,492443590,492443722',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/www.baidu.com\/search\/zhidao\/gangnamstyle\/index.html?fr=qbzt',
+            'title': '江南Style红的很科学',
+            'qid': '478958350,487057430,483904315,485109741,487057528,485109517,487057485,487057395,487057395,487057363,480719567',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/www.baidu.com\/search\/zhidao\/bing\/index.html?fr=qbzt',
+            'title': '其实这都不是病',
+            'qid': '480816980,480792024,481137959,480812943,480813792',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/www.baidu.com\/search\/zhidao\/aizheng\/index.html?fr=qbzt',
+            'title': '吃也会得癌症！',
+            'qid': '328576004,480213867,480213973,480218158,480232828',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/www.baidu.com\/search\/zhidao\/2012gongfu\/index.html?fr=qbzt',
+            'title': '江湖神功知多少',
+            'qid': '475780308,473798866,475780429,473806239,475780510,473800706,475780712,475782468,475780619,473801366',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen11.html?fr=qbzt',
+            'title': '姚海峰医生解答宠物健康',
+            'qid': '',
+            'expert': '姚海峰博士'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen11.html?fr=qbzt',
+            'title': '王天明专业解答宠物营养',
+            'qid': '',
+            'expert': '宠物营养'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen10.html?fr=qbzt',
+            'title': '苏芩谈远离爱留下的伤',
+            'qid': '',
+            'expert': '知名作家苏芩'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen08.html?fr=qbzt',
+            'title': '张国庆分析中日关系',
+            'qid': '',
+            'expert': '社科院张国庆'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen06.html?fr=qbzt',
+            'title': '小P老师教你彩妆造型',
+            'qid': '',
+            'expert': 'yoka小P老师'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen06.html?fr=qbzt',
+            'title': '梅琳老师教你美肌护肤',
+            'qid': '',
+            'expert': 'lafasoml'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen06.html?fr=qbzt',
+            'title': '美丽主持人李静的美容问答',
+            'qid': '',
+            'expert': 'lafasolj'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen05.html?fr=qbzt',
+            'title': '伊能静解答如何演电影',
+            'qid': '',
+            'expert': 'yinengjing2013'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen05.html?fr=qbzt',
+            'title': '导演赵林山揭秘电影',
+            'qid': '',
+            'expert': 'daoyanzls'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen05.html?fr=qbzt',
+            'title': '五岳散人谈美食',
+            'qid': '',
+            'expert': 'wysr2012'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen04.html?fr=qbzt',
+            'title': '早教专家李跃儿谈早教',
+            'qid': '',
+            'expert': 'lyer2013bd'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen04.html?fr=qbzt',
+            'title': '产科主任余梅教孕产',
+            'qid': '',
+            'expert': 'ym2013bd'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/topic\/muru\/index.html?fr=qbzt',
+            'title': '妈妈最关心的8个问题',
+            'qid': '526309070,526865300,526865300,526308815,526865218,526865157,526865101,526865101,526309710,526865031',
+            'expert': ''
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen03.html?fr=qbzt',
+            'title': '健身专家王友松教健身',
+            'qid': '',
+            'expert': 'wangyousong7'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen03.html?fr=qbzt',
+            'title': '顾中一教你健康营养',
+            'qid': '',
+            'expert': 'guzhongyi'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen03.html?fr=qbzt',
+            'title': '李湘教你减肥秘诀',
+            'qid': '',
+            'expert': 'lixiangzslx'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/zhishilingxiu02.html?fr=qbzt',
+            'title': '心血管病专家贾玉和谈病痛',
+            'qid': '',
+            'expert': 'jiayuhe7'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/zhishilingxiu02.html?fr=qbzt',
+            'title': '糖尿病专家向红丁谈病痛',
+            'qid': '',
+            'expert': 'xianghongd3'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/zhishilingxiu01.html?fr=qbzt',
+            'title': '金领小V谈职场生存学',
+            'qid': '',
+            'expert': '小V2013'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/zhishilingxiu01.html?fr=qbzt',
+            'title': '杜子建说创业',
+            'qid': '',
+            'expert': '杜子建2012'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen08.html?fr=qbzt',
+            'title': '张召忠谈钓鱼岛争端',
+            'qid': '',
+            'expert': 'zshaozhong2012'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen07.html?fr=qbgl',
+            'title': '崔玉涛谈婴幼儿护理',
+            'qid': '',
+            'expert': '儿科医生崔玉涛'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/zhishilingxiu02.html?fr=qbzt',
+            'title': '急诊女超人于莺谈病痛',
+            'qid': '',
+            'expert': 'yuyingjzk'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/zhishilingxiu01.html?fr=qbzt',
+            'title': '薛蛮子谈天使投资',
+            'qid': '',
+            'expert': '薛蛮子2012'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/wowen09.html?fr=qbgl',
+            'title': '郑渊洁让童年如童话',
+            'qid': '',
+            'expert': '作家郑渊洁'
+        },
+                                {
+            'url': 'http:\/\/zhidao.baidu.com\/s\/maya.html?fr=qbgl',
+            'title': '2012世界末日真相',
+            'qid': '384640140,193245477,62563072,306563588,158114723,409478947,12992979,129335529,84523086,13774477,161887534',
+            'expert': ''
+        }
+                    ]);
+            
+    
+</script>
+
+        <!--[if lte IE 8]>
+            <script>
+                (function(){
+                    var e="abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+                    i=e.length;
+                    while(i--){document.createElement(e[i])}
+                 })();
+            </script>
+        <![endif]-->
+	<link rel="stylesheet" type="text/css" href="http://cdn.iknow.bdimg.com/static/common/pkg/common_ddb6ff2.css" /><link rel="stylesheet" type="text/css" href="http://cdn.iknow.bdimg.com/static/question/pkg/aio_c10b0cf.css" /></head>
+    
+    
+<script> alog('speed.set', 'ht',new Date);</script>
+
+
+	<body class="layout-center has-menu">
+		
+                            
+<div class="line">
+<div id="userbar" class="userbar">
+            <ul class="main-list">
+            <li><a rel="nofollow" href="http://www.baidu.com/" id="userbar-baidu-index">百度首页</a></li>
+	    <li class="line">|</li>
+            <li><a rel="nofollow" href="http://zhidao.baidu.com/zt/ikapp/index.html?fr=new1" target="_blank">手机知道</a></li>
+	    <li class="posRelative"><span class="i-new"></span></li>
+            <li class="line">|</li>
+            <li><a rel="nofollow" alog-alias="usrbar-login" href="javascript:;" id="userbar-login" log="type:2026,pname:account,mod:login,action:show,pos:pop">登录</a></li>
+            <li><a rel="nofollow" alog-alias="usrbar-reg" id="userbar-reg" href="https://passport.baidu.com/v2/?reg&tpl=ik&color=green&u=" target="_blank">注册</a></li>
+        </ul>
+    </div>
+</div>
+
+
+            		
+        
+		
+                    	<header id="header" class="container">
+                        <a href="http://zhidao.baidu.com/s/bigdata/?autorefresh=1406513623384" title="" target="_blank" class="adTopImg" style="background:url(http://img.iknow.bdimg.com/qq/0725/top200_70.png);"></a>
+                		
+    			<div id="search-box" class="search-box line pt-20">
+  <a class="logo" href="/" title="百度知道"></a>
+  <ul class="channel grid">
+    <li><a log="sc_pos:c_news" rel="nofollow" href="http://news.baidu.com/">新闻</a></li> 
+    <li><a log="sc_pos:c_baidu" rel="nofollow" href="http://www.baidu.com/">网页</a></li> 
+    <li><a log="sc_pos:c_tieba" rel="nofollow" href="http://tieba.baidu.com/">贴吧</a></li> 
+    <li><strong>知道</strong></li> 
+    <li><a log="sc_pos:c_mp3" rel="nofollow" href="http://music.baidu.com/">音乐</a></li> 
+    <li><a log="sc_pos:c_pic" rel="nofollow" href="http://image.baidu.com/">图片</a></li> 
+    <li><a log="sc_pos:c_video" rel="nofollow" href="http://v.baidu.com/">视频</a></li> 
+    <li><a log="sc_pos:c_map" rel="nofollow" href="http://map.baidu.com/">地图</a></li> 
+    <li><a log="sc_pos:c_baike" rel="nofollow" href="http://baike.baidu.com/">百科</a></li> 
+    <li><a log="sc_pos:c_doc" rel="nofollow" href="http://wenku.baidu.com/">文库</a></li>
+    <li><a log="sc_pos:c_jingyan" href="http://jingyan.baidu.com/">经验</a></li>
+  </ul>
+
+  <form action="/search" name="search-form" method="get" id="search-form" class="search-form"> 
+    <div class="box">
+      <span class="search-box-bg sb-bg-low"></span><span class="search-box-bg"></span>
+      <input class="hdi" id="kw" maxlength="256" tabindex="1" size="46" name="word" value="" autocomplete="off" />
+      <span class="btn-wrap"><input alog-action="g-search-anwser" type="submit" id="search-btn" hidefocus="true" onmouseover="this.className='btn-global btn-hover';" onmouseout="this.className='btn-global';" onmousedown="this.className='btn-global btn-active'" tabindex="2" value="搜索答案" class="btn-global" /></span>
+      <a href="#" alog-action="g-i-ask" class="f-14" id="ask-btn">我要提问</a>
+    </div>
+  </form>
+</div>
+
+    		
+    	</header>
+        	<div id="body" class="container">
+        		
+<div id="menu" class="menu">
+		<ul>
+			<li >
+				<a log="action:menuclick,index:1" href="http://zhidao.baidu.com/">首页</a>
+			</li>
+			<li >
+				<a log="action:menuclick,index:3" href="http://zhidao.baidu.com/browse/">分类</a>
+			</li>
+			<li >
+				<a log="action:menuclick,index:2" rel="nofollow" href="http://zhidao.baidu.com/shop">公社</a>
+                <div class="sub-menu">
+                	<div class="sub-item">
+                		<a rel="nofollow" href="http://zhidao.baidu.com/shop">财富商城</a>
+                		<a rel="nofollow" href="http://zhidao.baidu.com/team">知道团队</a>
+                		<a rel="nofollow" class="spacing" href="http://zhidao.baidu.com/user/admin">管 理 员</a>
+                        <a rel="nofollow" href="http://zhidao.baidu.com/s/star/index.html">知道之星</a>
+                        <a rel="nofollow" href="http://zhidao.baidu.com/s/activity/index.html">知道活动</a>
+                	</div>
+                </div>
+			</li>
+			<li>
+				<a log="action:menuclick,index:12" target="_blank" href="http://zhidao.baidu.com/hangjia">知道行家</a>
+			</li>
+			<li >
+                <a log="action:menuclick,index:6" rel="nofollow" href="http://zhidao.baidu.com/yisheng">问医生</a>
+            </li>
+            <li >
+                <a log="action:menuclick,index:5" rel="nofollow" href="http://zhidao.baidu.com/lvshi">问律师</a>
+            </li>
+			<li class="menu-new ">
+				<a log="action:menuclick,index:4" rel="nofollow" href="http://zhidao.baidu.com/prof/education">问作业</a>
+			</li>
+			<li>
+				<a log="action:menuclick,index:9" target="_blank" href="http://jingyan.baidu.com">经验</a>
+			</li>
+		</ul>
+		<a  log="action:menuclick,index:10" rel="nofollow" href="/uhome" target="_blank" class="ucenter"><i class="ik-icon-uhome mr-5"></i>个人中心</a>
+		<span class="double-line"></span>
+		<a  log="action:menuclick,index:11" rel="nofollow" href="http://zhidao.baidu.com/zt/ikapp/index.html?fr=home" target="_blank" class="ucenter"><i class="ik-icon-phone mr-5"></i>手机知道</a>
+		<span class="double-line"></span>
+		<a log="action:menuclick,index:13" rel="nofollow" href="http://zhidao.baidu.com/openapi?fr=home" target="_blank" class="ucenter"><i class="ik-icon-open mr-5"></i>开放平台</a>
+</div>
+
+<div id="union-qbbanner" class="union-qbbanner line wgt-ads"></div>
+
+<div style="display:none">
+
+<nav class="wgt-nav f-12 f-simsun" alog-group="qb-cate-nav">
+<a href="/">百度知道</a>
+&gt;<a href="/browse/74">电脑/网络</a>
+&gt;<a href="/browse/88">互联网</a>
+&gt;<a href="/browse/1039">网站使用</a>
+</nav>
+
+</div>
+<section class="line qb-section">
+<article class="grid qb-content" id="qb-content">
+<div class="wgt-ask accuse-response line mb-5" id="wgt-ask">
+<h1 class="mb-5" accuse="qTitle">
+<i class="i-status-being grid mr-10"></i>
+<span class="ask-title ">一台主机的IP地址有多少个端口</span>
+</h1>
+<div class="line f-aid mb-10" id="ask-info">
+<span class="grid-r ask-time"><ins class="accuse-area"></ins>2007-02-04 15:16</span>
+
+<a class="user-name" alog-action="qb-ask-uname" rel="nofollow" href="http://www.baidu.com/p/那华灯初上?from=zhidao" target="_blank">那华灯初上</a>
+
+<span class="f-pipe">|</span>
+<span class="classinfo f-simsun" alog-group="qb-cate-nav">
+分类：<a class="f-aid" alog-alias="qb-class-info" href="/browse/1039">网站使用</a>
+</span>
+<span id="v-times" class="f-pipe" style="display: none"></span>
+<span class="f-pipe">|</span>
+<a class="f-simsun" alog-alias="qb-gather-link" href="/question/19824140.html?pn=0">该问题已经合并到&gt;&gt;</a>
+</div>
+<div class="line mt-10 app-and-share">
+
+<div class="wgt-share" id="wgt-share">
+<div class="line f-aid mt-5">
+<span class="share-to grid">分享到：</span>
+<div alog-group="qb-share-btn" id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"><a class="bds_tsina" log="pos:tsina"></a>
+<a class="bds_tqq" log="pos:tqq"></a>
+<a class="bds_qzone" log="pos:qzone"></a>
+<a class="bds_renren" log="pos:renren"></a>
+<a class="bds_tieba" log="pos:tieba"></a>
+<span class="bds_more"></span>
+</div></div>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=281447" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+
+</div>
+</div>
+
+
+<script type="text/javascript">
+        F.context('answers')['70845440'] = {uid:"23353686",imId:"56596269676661696e746401",isBest:"1",id:"70845440",userName:"bigfaint",userNameEnc:"bigfaint",user:{sex:"1",iconType:"6",gradeIndex:"11",grAnswerNum:"588",carefield: [{cid:"74",cname:"电脑/网络"},{cid:"89",cname:"操作系统/系统故障"},{cid:"779",cname:"户外运动"}],isAuth:"0",authTitle:"",isUserAdmin:"0",userAdminLevel:"",userAdminTitle:"",isFamous:"0",isMaster:"0",goodRate:"38",applyExcType:"0"},isAnonymous:"0",isCurrentUser:"0",mapUrl:"",refer:"",replyAskNum:"",threadId:"283381761",hasComment:"1",qid:"19606754",raid:"",recommendCanceled:"0"};
+                        	F.context('relateWords')['best-content-'+'70845440'] = ["Domain Name Server","\u8f7b\u578b\u76ee\u5f55\u8bbf\u95ee\u534f\u8bae","\u76ee\u5f55\u8bbf\u95ee\u534f\u8bae","cable modem","Id Software","TCP\/IP\u534f\u8bae","\u6253\u5370\u673a\u5171\u4eab","\u7f13\u51b2\u533a\u6ea2\u51fa","DHCP\u670d\u52a1\u5668","FTP\u670d\u52a1\u5668","1024\u7aef\u53e3","\u4fe1\u606f\u4f20\u9012","\u7cfb\u7edf\u4e0b\u8f7d","\u901a\u9053\u65b9\u5f0f","\u6ea2\u51fa\u6f0f\u6d1e","\u8fdc\u7a0b\u767b\u5f55","\u64cd\u4f5c\u7cfb\u7edf","DCOM\u670d\u52a1","6776\u7aef\u53e3","X-window","kerberos","\u4f20\u8f93\u534f\u8bae","\u9762\u5411\u5bf9\u8c61","\u5e7f\u64ad\u5730\u5740","POP3\u670d\u52a1","\u540e\u95e8\u7a0b\u5e8f","2049\u7aef\u53e3","chargen","portmap","139\u7aef\u53e3","IP\u534f\u8bae","\u804a\u5929\u5ba4","\u6570\u636e\u6d41","\u65b0\u95fb\u7ec4","\u9632\u706b\u5899","\u64cd\u4f5c\u53f0","80\u7aef\u53e3","\u4e2d\u95f4\u4eba","\u4ee5\u592a\u7f51","67\u7aef\u53e3","\u653e\u5927\u5668","\u5165\u4fb5\u8005","bootp","modem","65535","\u8bb8\u8fdc","\u4f1a\u8bd5"];
+            </script>
+<div  class="wgt-best " id="best-answer-70845440">
+<div class="hd line mb-10">
+<span class="grid-r f-aid pos-time mt-20">
+<ins class="accuse-area" alog-alias="qb-accuse-link-best"></ins>
+2007-02-05 15:34
+</span>
+<span class="answer-type answer-best grid"></span>
+<span class="answer-title h2 grid">提问者采纳</span>
+</div>
+<div class="bd answer" id="answer-70845440">
+<div class="line info f-aid">
+</div>
+<div class="line content">
+<pre id="best-content-70845440" accuse="aContent" class="best-text mb-10">TCP/IP使用的端口范围是0-65535，可以分为三大类：<br />   (1) 公认端口（Well Known Ports）：从0到1023，它们紧密绑定于一些服务。通常这些端口的通讯明确表明了某种服务的协议。例如：80端口实际上总是HTTP通讯。<br />   (2)注册端口（Registered Ports）：从1024到49151。它们松散地绑定于一些服务。也就是说有许多服务绑定于这些端口，这些端口同样用于许多其它目的。例如：许多系统处理动态端口从1024左右开始。<br />   (3) 动态和/或私有端口（Dynamic and/or Private Ports）：从49152到65535<br /><br />常用端口对照常用端口对照<br />端口：0<br />服务：Reserved<br />说明：通常用于分析操作系统。这一方法能够工作是因为在一些系统中&quot;0&quot;是无效端口，当你试图使用通常的闭合端口连接它时将产生不同的结果。一种典型的扫描，使用IP地址为0.0.0.0，设置ACK位并在以太网层广播。<br />端口：1<br />服务：tcpmux<br />说明：这显示有人在寻找SGI Irix机器。Irix是实现tcpmux的主要提供者，默认情况下tcpmux在这种系统中被打开。Irix机器在发布是含有几个默认的无密码的帐户，如：IP、GUEST UUCP、NUUCP、DEMOS 、TUTOR、DIAG、OUTOFBOX等。许多管理员在安装后忘记删除这些帐户。因此HACKER在INTERNET上搜索tcpmux并利用这些帐户。<br />端口：7<br />服务：Echo<br />说明：能看到许多人搜索Fraggle放大器时，发送到X.X.X.0和X.X.X.255的信息。<br />端口：19<br />服务：Character Generator<br />说明：这是一种仅仅发送字符的服务。UDP版本将会在收到UDP包后回应含有垃圾字符的包。TCP连接时会发送含有垃圾字符的数据流直到连接关闭。HACKER利用IP欺骗可以发动DoS攻击。伪造两个chargen服务器之间的UDP包。同样Fraggle DoS攻击向目标地址的这个端口广播一个带有伪造受害者IP的数据包，受害者为了回应这些数据而过载。<br />端口：21<br />服务：FTP<br />说明：FTP服务器所开放的端口，用于上传、下载。最常见的攻击者用于寻找打开anonymous的FTP服务器的方法。这些服务器带有可读写的目录。木马Doly Trojan、Fore、Invisible FTP、WebEx、WinCrash和Blade Runner所开放的端口。<br />端口：22<br />服务：Ssh<br />说明：PcAnywhere建立的TCP和这一端口的连接可能是为了寻找ssh。这一服务有许多弱点，如果配置成特定的模式，许多使用RSAREF库的版本就会有不少的漏洞存在。<br />端口：23<br />服务：Telnet<br />说明：远程登录，入侵者在搜索远程登录UNIX的服务。大多数情况下扫描这一端口是为了找到机器运行的操作系统。还有使用其他技术，入侵者也会找到密码。木马Tiny Telnet Server就开放这个端口。<br />端口：25<br />服务：SMTP<br />说明：SMTP服务器所开放的端口，用于发送邮件。入侵者寻找SMTP服务器是为了传递他们的SPAM。入侵者的帐户被关闭，他们需要连接到高带宽的E-MAIL服务器上，将简单的信息传递到不同的地址。木马Antigen、Email Password Sender、Haebu Coceda、Shtrilitz Stealth、WinPC、WinSpy都开放这个端口。<br />端口：31<br />服务：MSG Authentication<br />说明：木马Master Paradise、Hackers Paradise开放此端口。<br />端口：42<br />服务：WINS Replication<br />说明：WINS复制<br />端口：53<br />服务：Domain Name Server（DNS）<br />说明：DNS服务器所开放的端口，入侵者可能是试图进行区域传递（TCP），欺骗DNS（UDP）或隐藏其他的通信。因此防火墙常常过滤或记录此端口。<br />端口：67<br />服务：Bootstrap Protocol Server<br />说明：通过DSL和Cable modem的防火墙常会看见大量发送到广播地址255.255.255.255的数据。这些机器在向DHCP服务器请求一个地址。HACKER常进入它们，分配一个地址把自己作为局部路由器而发起大量中间人（man-in-middle）攻击。客户端向68端口广播请求配置，服务器向67端口广播回应请求。这种回应使用广播是因为客户端还不知道可以发送的IP地址。<br />端口：69<br />服务：Trival File Transfer<br />说明：许多服务器与bootp一起提供这项服务，便于从系统下载启动代码。但是它们常常由于错误配置而使入侵者能从系统中窃取任何文件。它们也可用于系统写入文件。<br />端口：79<br />服务：Finger Server<br />说明：入侵者用于获得用户信息，查询操作系统，探测已知的缓冲区溢出错误，回应从自己机器到其他机器Finger扫描。<br />端口：80<br />服务：HTTP<br />说明：用于网页浏览。木马Executor开放此端口。<br />端口：99<br />服务：Metagram Relay<br />说明：后门程序ncx99开放此端口。<br />端口：102<br />服务：Message transfer agent(MTA)-X.400 over TCP/IP<br />说明：消息传输代理。<br />端口：109<br />服务：Post Office Protocol -Version3<br />说明：POP3服务器开放此端口，用于接收邮件，客户端访问服务器端的邮件服务。POP3服务有许多公认的弱点。关于用户名和密码交换缓冲区溢出的弱点至少有20个，这意味着入侵者可以在真正登陆前进入系统。成功登陆后还有其他缓冲区溢出错误。<br />端口：110<br />服务：SUN公司的RPC服务所有端口<br />说明：常见RPC服务有rpc.mountd、NFS、rpc.statd、rpc.csmd、rpc.ttybd、amd等<br />端口：113<br />服务：Authentication Service<br />说明：这是一个许多计算机上运行的协议，用于鉴别TCP连接的用户。使用标准的这种服务可以获得许多计算机的信息。但是它可作为许多服务的记录器，尤其是FTP、POP、IMAP、SMTP和IRC等服务。通常如果有许多客户通过防火墙访问这些服务，将会看到许多这个端口的连接请求。记住，如果阻断这个端口客户端会感觉到在防火墙另一边与E-MAIL服务器的缓慢连接。许多防火墙支持TCP连接的阻断过程中发回RST。这将会停止缓慢的连接。<br />端口：119<br />服务：Network News Transfer Protocol<br />说明：NEWS新闻组传输协议，承载USENET通信。这个端口的连接通常是人们在寻找USENET服务器。多数ISP限制，只有他们的客户才能访问他们的新闻组服务器。打开新闻组服务器将允许发/读任何人的帖子，访问被限制的新闻组服务器，匿名发帖或发送SPAM。<br />端口：135<br />服务：Location Service<br />说明：Microsoft在这个端口运行DCE RPC end-point mapper为它的DCOM服务。这与UNIX 111端口的功能很相似。使用DCOM和RPC的服务利用计算机上的end-point mapper注册它们的位置。远端客户连接到计算机时，它们查找end-point mapper找到服务的位置。HACKER扫描计算机的这个端口是为了找到这个计算机上运行Exchange Server吗？什么版本？还有些DOS攻击直接针对这个端口。<br />端口：137、138、139<br />服务：NETBIOS Name Service<br />说明：其中137、138是UDP端口，当通过网上邻居传输文件时用这个端口。而139端口：通过这个端口进入的连接试图获得NetBIOS/SMB服务。这个协议被用于windows文件和打印机共享和SAMBA。还有WINS Regisrtation也用它。<br />端口：143<br />服务：Interim Mail Access Protocol v2<br />说明：和POP3的安全问题一样，许多IMAP服务器存在有缓冲区溢出漏洞。记住：一种LINUX蠕虫（admv0rm）会通过这个端口繁殖，因此许多这个端口的扫描来自不知情的已经被感染的用户。当REDHAT在他们的LINUX发布版本中默认允许IMAP后，这些漏洞变的很流行。这一端口还被用于IMAP2，但并不流行。<br />端口：161<br />服务：SNMP<br />说明：SNMP允许远程管理设备。所有配置和运行信息的储存在数据库中，通过SNMP可获得这些信息。许多管理员的错误配置将被暴露在Internet。Cackers将试图使用默认的密码public、private访问系统。他们可能会试验所有可能的组合。SNMP包可能会被错误的指向用户的网络。<br />端口：177<br />服务：X Display Manager Control Protocol<br />说明：许多入侵者通过它访问X-windows操作台，它同时需要打开6000端口。<br />端口：389<br />服务：LDAP、ILS<br />说明：轻型目录访问协议和NetMeeting Internet Locator Server共用这一端口。<br />端口：443<br />服务：Https<br />说明：网页浏览端口，能提供加密和通过安全端口传输的另一种HTTP。<br />端口：456<br />服务：[NULL]<br />说明：木马HACKERS PARADISE开放此端口。<br />端口：513<br />服务：Login,remote login<br />说明：是从使用cable modem或DSL登陆到子网中的UNIX计算机发出的广播。这些人为入侵者进入他们的系统提供了信息。<br />端口：544<br />服务：[NULL]<br />说明：kerberos kshell<br />端口：548<br />服务：Macintosh,File Services(AFP/IP)<br />说明：Macintosh,文件服务。<br />端口：553<br />服务：CORBA IIOP （UDP）<br />说明：使用cable modem、DSL或VLAN将会看到这个端口的广播。CORBA是一种面向对象的RPC系统。入侵者可以利用这些信息进入系统。<br />端口：555<br />服务：DSF<br />说明：木马PhAse1.0、Stealth Spy、IniKiller开放此端口。<br />端口：568<br />服务：Membership DPA<br />说明：成员资格 DPA。<br />端口：569<br />服务：Membership MSN<br />说明：成员资格 MSN。<br />端口：635<br />服务：mountd<br />说明：Linux的mountd Bug。这是扫描的一个流行BUG。大多数对这个端口的扫描是基于UDP的，但是基于TCP的mountd有所增加（mountd同时运行于两个端口）。记住mountd可运行于任何端口（到底是哪个端口，需要在端口111做portmap查询），只是Linux默认端口是635，就像NFS通常运行于2049端口。<br />端口：636<br />服务：LDAP<br />说明：SSL（Secure Sockets layer）<br />端口：666<br />服务：Doom Id Software<br />说明：木马Attack FTP、Satanz Backdoor开放此端口<br />端口：993<br />服务：IMAP<br />说明：SSL（Secure Sockets layer）<br />端口：1001、1011<br />服务：[NULL]<br />说明：木马Silencer、WebEx开放1001端口。木马Doly Trojan开放1011端口。<br />端口：1024<br />服务：Reserved<br />说明：它是动态端口的开始，许多程序并不在乎用哪个端口连接网络，它们请求系统为它们分配下一个闲置端口。基于这一点分配从端口1024开始。这就是说第一个向系统发出请求的会分配到1024端口。你可以重启机器，打开Telnet，再打开一个窗口运行natstat -a 将会看到Telnet被分配1024端口。还有SQL session也用此端口和5000端口。<br />端口：1025、1033<br />服务：1025：network blackjack 1033：[NULL]<br />说明：木马netspy开放这2个端口。<br />端口：1080<br />服务：SOCKS<br />说明：这一协议以通道方式穿过防火墙，允许防火墙后面的人通过一个IP地址访问INTERNET。理论上它应该只允许内部的通信向外到达INTERNET。但是由于错误的配置，它会允许位于防火墙外部的攻击穿过防火墙。WinGate常会发生这种错误，在加入IRC聊天室时常会看到这种情况。<br />端口：1170<br />服务：[NULL]<br />说明：木马Streaming Audio Trojan、Psyber Stream Server、Voice开放此端口。<br />端口：1234、1243、6711、6776<br />服务：[NULL]<br />说明：木马SubSeven2.0、Ultors Trojan开放1234、6776端口。木马SubSeven1.0/1.9开放1243、6711、6776端口。<br />端口：1245<br />服务：[NULL]<br />说明：木马Vodoo开放此端口<br /><br />要了解得更多，可以学习一下TCP/IP协议。</pre>
+<div class="grid-r f-aid ">
+
+<span alog-action="qb-comment-btnbestbox" class="comment f-blue" id="comment-70845440">评论</span>
+<span class="f-pipe">|</span>
+<span alog-action="qb-zan-btnbestbox" class="evaluate evaluate-32" id="evaluate-70845440" data-evaluate="8" ></span>
+<span alog-action="qb-evaluate-outer" class="evaluate evaluate-bad evaluate-32" id="evaluate-bad-70845440" data-evaluate="0" ></span>
+
+</div>
+
+
+</div>
+
+<div class="line wgt-replyer-best mt-10 pt-20"><div class="grid mr-15">
+<p class="avatar-48 avatar-static">
+<a alog-action="qb-username" log="pms:newqb,pos:bestreplyer" class="avatar-normal-a" rel="nofollow" href="http://www.baidu.com/p/bigfaint?from=zhidao" target="_blank" data-img="http://img.iknow.bdimg.com/avatar/48/r6s1g11.gif">
+</a>
+</p>
+</div>
+<div class="grid f-aid">
+<p>
+<a alog-action="qb-username" log="pms:newqb,pos:bestreplyer" class="user-name" rel="nofollow" href="http://www.baidu.com/p/bigfaint?from=zhidao" target="_blank">bigfaint</a>
+<span class="f-pipe">|</span>
+<a class="f-aid" href="http://www.baidu.com/search/zhidao_help.html#如何选择头衔" target="_blank">十一级</a>
+<span class="ml-10">采纳率38%</span>
+</p>
+<p class="carefield">
+<span>擅长：</span>
+<a class="mr-5 f-aid" href="/browse/74" target="_blank">电脑/网络</a>
+<a class="mr-5 f-aid" href="/browse/89" target="_blank">操作系统/系统故障</a>
+<a class="mr-5 f-aid" href="/browse/779" target="_blank">户外运动</a>
+</p>
+</div>
+</div>
+
+</div>
+
+<div class="wgt-related mt-5 involved " id="wgt-related">
+<h2>其他类似问题</h2>
+<div class="related-list line">
+<ul class="list-34 related-ul" alog-group="qb-relative-que">
+<li >
+<span class="grid-r f-aid">2007-02-09</span>
+<a href="/question/19824140.html?qbl=relate_question_0" target="_blank" 
+                    log="fr:qrl,pms:newqb,page:qb-new,pos:relative_title,index:1,cid:1039" class="related-link" data-qid="19824140">一台主机的IP地址有多少个端口，请问</a>
+</li>
+<li >
+<span class="grid-r f-aid">2010-07-31</span>
+<a href="/question/169745454.html?qbl=relate_question_1" target="_blank" 
+                    log="fr:qrl,pms:newqb,page:qb-new,pos:relative_title,index:2,cid:1039" class="related-link" data-qid="169745454">求一个IP地址和端口</a>
+</li>
+<li >
+<span class="grid-r f-aid">2011-04-24</span>
+<a href="/question/249881293.html?qbl=relate_question_2" target="_blank" 
+                    log="fr:qrl,pms:newqb,page:qb-new,pos:relative_title,index:3,cid:1039" class="related-link" data-qid="249881293">我现在有了一个 IP地址 和端口</a>
+</li>
+<li >
+<span class="grid-r f-aid">2011-03-29</span>
+<a href="/question/235016310.html?qbl=relate_question_3" target="_blank" 
+                    log="fr:qrl,pms:newqb,page:qb-new,pos:relative_title,index:4,cid:1039" class="related-link" data-qid="235016310">ip地址和端口的关系？</a>
+<i class="i-evaluate"></i><span class="ml-5 f-red" title="回答获得22个赞同">22</span>
+</li>
+<li >
+<span class="grid-r f-aid">2008-01-28</span>
+<a href="/question/44696219.html?qbl=relate_question_4" target="_blank" 
+                    log="fr:qrl,pms:newqb,page:qb-new,pos:relative_title,index:5,cid:1039" class="related-link" data-qid="44696219">另一主机已关闭,或拒绝在该 IP 和&#47;或端口与您连接</a>
+</li>
+</ul>
+</div>
+<div class="related-more mt-10 f-simsun">
+<a log="fr:qrl,pms:newqb,pos:relative_more" alog-action="qb-relative-more" target="_blank" rel="nofollow" href="/search?word=一台主机的IP地址有多少个端口&ie=gbk&fr=qrl&cid=1039&qbl=relate_question_more">
+更多相关问题&gt;&gt;</a>
+</div>
+</div>
+
+</div>
+
+<script>
+            void function(f,b){var g=b.getElementsByTagName("img"),a=+new Date,e=[];var d=function(){if(this.removeEventListener){this.removeEventListener("load",d,false)}e.push({img:this,time:+new Date})};for(var c=0;c<g.length;c++){(function(){var h=g[c];if(h.addEventListener){!h.complete&&h.addEventListener("load",d,false)}else{if(h.attachEvent){h.attachEvent("onreadystatechange",function(){if(h.readyState=="complete"){d.call(h,d)}})}}})()}alog("speed.set",{fsItems:e,fs:a})}(window,document);
+            </script>
+<div class="wgt-topic mt-5" id="wgt-topic">
+<h2><em class="f-stress">ip地址</em>的相关知识</h2>
+<ul class="topic-list list-34 mt-10" alog-group="qb-relative-title">
+<li>
+<span class="grid-r f-aid">2009-12-22</span>
+<a href="/question/129711781.html?fr=qrl&index=0&qbl=topic_question_0" log="pos:exttitle,topic:1,index:1" target="_blank">
+IP地址和端口怎么区别？
+</a>
+<i class="i-evaluate"></i><span class="ml-5 f-red" title="回答获得7个赞同">7</span>
+</li>
+<li>
+<span class="grid-r f-aid">2011-04-08</span>
+<a href="/question/249302503.html?fr=qrl&index=1&qbl=topic_question_1" log="pos:exttitle,topic:1,index:2" target="_blank">
+IP地址设置方法
+</a>
+<i class="i-evaluate"></i><span class="ml-5 f-red" title="回答获得822个赞同">822</span>
+</li>
+<li>
+<span class="grid-r f-aid">2010-11-08</span>
+<a href="/question/193639757.html?fr=qrl&index=2&qbl=topic_question_2" log="pos:exttitle,topic:1,index:3" target="_blank">
+IP地址有冲突怎麼办？
+</a>
+<i class="i-evaluate"></i><span class="ml-5 f-red" title="回答获得74个赞同">74</span>
+</li>
+<li>
+<span class="grid-r f-aid">2009-11-26</span>
+<a href="/question/123644953.html?fr=qrl&index=3&qbl=topic_question_3" log="pos:exttitle,topic:1,index:4" target="_blank">
+免费修改ip地址代理
+</a>
+<i class="i-evaluate"></i><span class="ml-5 f-red" title="回答获得144个赞同">144</span>
+</li>
+<li>
+<span class="grid-r f-aid">2009-05-10</span>
+<a href="/question/88127467.html?fr=qrl&index=4&qbl=topic_question_4" log="pos:exttitle,topic:1,index:5" target="_blank">
+从ip地址得到端口
+</a>
+<i class="i-evaluate"></i><span class="ml-5 f-red" title="回答获得5个赞同">5</span>
+</li>
+</ul>
+<div class="topic-more mt-10 f-simsun">
+<a log="pos:extmore,topic:1" alog-alias="qb-relgrup-more" target="_blank" rel="nofollow" href="/search?word=ip%B5%D8%D6%B7&ie=gbk&fr=qrl&cid=1039&qbl=topic_question_more">
+更多关于<em class="f-stress">ip地址</em>的问题&gt;&gt;</a>
+</div>
+</div>
+
+
+<div class="wgt-push mt-5">
+<h2 class="hd line">
+等待您来回答</h2>
+<ul alog-group="qb-push-que" class="bd list-34 line push-ul">
+<li>
+<span class="grid-r f-aid">0回答</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/2266332761893081788.html?push=related&group=0&qbl=push_question_0&rpRecommand=c" target="_blank">如何获取共公网ip的某个端口</a>
+</li>
+<li>
+<span class="grid-r f-aid">1回答</span>
+<i class="i-wealth-big"></i>
+<span class="f-red mr-5">5</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/2266529951587709508.html?push=related&group=0&qbl=push_question_1&rpRecommand=c" target="_blank">路由器默认ip地址和端口失效</a>
+</li>
+<li>
+<span class="grid-r f-aid">1回答</span>
+<i class="i-wealth-big"></i>
+<span class="f-red mr-5">30</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/240608970814859244.html?push=related&group=0&qbl=push_question_2&rpRecommand=c" target="_blank">下载了一个网站数据包，以本机为服务器搭建该网站，需要输入服务器...</a>
+</li>
+<li>
+<span class="grid-r f-aid">0回答</span>
+<i class="i-wealth-big"></i>
+<span class="f-red mr-5">10</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/873107546883121692.html?push=related&group=0&qbl=push_question_3&rpRecommand=c" target="_blank">大神，我的端口映射和静态ip对了吗，跪求解</a>
+</li>
+<li>
+<span class="grid-r f-aid">0回答</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/1690716516062281708.html?push=related&group=0&qbl=push_question_4&rpRecommand=c" target="_blank">&quot;平时说把某某端口封掉了，也只是在IP层次把带有这个号码的IP...</a>
+</li>
+<li>
+<span class="grid-r f-aid">0回答</span>
+<i class="i-wealth-big"></i>
+<span class="f-red mr-5">10</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/391047479869159085.html?push=related&group=0&qbl=push_question_5&rpRecommand=c" target="_blank">共享IP解析域名怎么才可以不加端口？</a>
+</li>
+<li>
+<span class="grid-r f-aid">3回答</span>
+<i class="i-wealth-big"></i>
+<span class="f-red mr-5">20</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/424728855688528492.html?push=related&group=0&qbl=push_question_6&rpRecommand=c" target="_blank">水星mw300r无线路由器LAN端口Ip更改后保存不了，有解决办法吗？</a>
+</li>
+<li>
+<span class="grid-r f-aid">1回答</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/1446316344734033580.html?push=related&group=0&qbl=push_question_7&rpRecommand=c" target="_blank">在公司里能访问公网IP地址，但是在外部无法访问，更换端口号可以正...</a>
+</li>
+<li>
+<span class="grid-r f-aid">1回答</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/624355469688920484.html?push=related&group=0&qbl=push_question_8&rpRecommand=c" target="_blank">ubuntu 的防火墙 ufw 能指定ip访问指定端口吗</a>
+</li>
+<li>
+<span class="grid-r f-aid">0回答</span>
+<i class="i-wealth-big"></i>
+<span class="f-red mr-5">5</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/1860275081254331107.html?push=related&group=0&qbl=push_question_9&rpRecommand=c" target="_blank">求一款小工具: 多IP单PORT批量测试(不同IP地址段 测试 同一指定端口...</a>
+</li>
+<li>
+<span class="grid-r f-aid">0回答</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/560098702764612004.html?push=related&group=0&qbl=push_question_10&rpRecommand=c" target="_blank">求我的世界pe版IP和端口越多越好</a>
+<a class="i-from-wap ml-5" title="来自手机知道" href="/s/2011wapadv/index.html?fr=qbview&tab=1" target="_blank"></a>
+</li>
+<li>
+<span class="grid-r f-aid">0回答</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/752608568035027564.html?push=related&group=0&qbl=push_question_11&rpRecommand=c" target="_blank">我的世界服务器找会ip端口的技术</a>
+<a class="i-from-wap ml-5" title="来自手机知道" href="/s/2011wapadv/index.html?fr=qbview&tab=1" target="_blank"></a>
+</li>
+<li>
+<span class="grid-r f-aid">1回答</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/1510314223908710100.html?push=related&group=0&qbl=push_question_12&rpRecommand=c" target="_blank">松下8035网络打印机驱动已经安装了，上面也显示就绪了，但就是打不...</a>
+</li>
+<li>
+<span class="grid-r f-aid">0回答</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/982491439852165099.html?push=related&group=0&qbl=push_question_13&rpRecommand=c" target="_blank">视频远端口坏了怎么改ip</a>
+<a class="i-from-wap ml-5" title="来自手机知道" href="/s/2011wapadv/index.html?fr=qbview&tab=1" target="_blank"></a>
+</li>
+<li>
+<span class="grid-r f-aid">2回答</span>
+<a log="pms:newqb,pos:pushlist,page:qb-new" href="/question/2074271202832334948.html?push=related&group=0&qbl=push_question_14&rpRecommand=c" target="_blank">谁能给我一个我的世界pe服务器ip及端口，24小时的</a>
+<a class="i-from-wap ml-5" title="来自手机知道" href="/s/2011wapadv/index.html?fr=qbview&tab=1" target="_blank"></a>
+</li>
+</ul>
+<div class="ft line mt-10">
+<a class="f-simsun" alog-action="qb-push-more" log="pms:newqb,pos:pushlist,page:question" target="_blank" rel="nofollow" href="/browse/?qbl=push_question_more">更多等待您来回答的问题&gt;&gt;</a>
+</div>
+</div>
+
+
+<table id="qbleftdown-container"><tr><td>
+
+</td></tr></table>
+
+</article>
+<aside class="grid qb-side" id="qb-side">
+
+<div class="wgt-nologin-daily" id="wgt-nologin-daily">
+
+<div class="wgt-daily ">
+<div class="daily-line mb-5">
+<h3 class="grid">知道日报</h3>
+<span class="grid"></span>
+<a href="http://zhidao.baidu.com/daily/" target="_blank" alog-action="qb-daily-review" class="grid-r f-aid">往期回顾</a>
+</div>
+<div id="daily-carousel"></div>
+<div class="wgt-daily-wall"><em></em><s></s></div>
+</div>
+
+<div class="wgt-nologin">
+<a class="button" id="nologin-login">登录</a>
+<p class="ml-10">还没有百度账号？<a href="https://passport.baidu.com/v2/?reg&tpl=ik&color=green&u=" target="_blank" id="nologin-reg">立即注册</a>
+</div>
+
+</div>
+
+
+
+<div style="display:none">
+1
+2
+3
+</div>
+
+
+<div id="union-qbrightdown" class="union-qbrightdown line wgt-ads"></div>
+
+<div class="cms-slide cms-slide-lazy">
+<script type="text/javascript">
+		F.context('cmsRight', [
+															
+							{
+					'url':'http://zhidao.baidu.com/s/bigdata/',
+					'src':'http://img.iknow.bdimg.com/qq/0725/QBbanner270_170.png?t=1406516743'
+				},																		
+							{
+					'url':'http://zhidao.baidu.com/zhima/',
+					'src':'http://img.iknow.bdimg.com/qq/0724/270X170.jpg?t=1406516743'
+				},																		
+							{
+					'url':'http://zhidao.baidu.com/html/adminUser/adminApplyDes.html',
+					'src':'http://img.baidu.com/img/iknow/zhengwen/270X170.jpg?t=1406516743'
+				}							]);
+	</script>
+<div class="cms-scroll" id="cms-scroll">
+<div class="cms-mask" id="cms-mask"></div>
+</div>
+</div>
+<div class="cms-slide">
+<div class="cms-inner">
+<p class="cms-link-title">精彩知识在知道</p>
+<ul class="pb-5" id="cms-link">
+<li><i class="i-list-dot mr-5"></i><a alog-action="qb-inner-link" href="http://weibo.com/3655163777" target="_blank">关注知道日报微博，时时拿好礼！</a></li>
+<li><i class="i-list-dot mr-5"></i><a alog-action="qb-inner-link" href="http://zhidao.baidu.com/liuyan" target="_blank">真相问答机，我们一起粉碎流言！</a></li>
+<li><i class="i-list-dot mr-5"></i><a alog-action="qb-inner-link" href="http://zhidao.baidu.com/zt/qlg2014/index.html" target="_blank">关于H7N9的常识与误区</a></li>
+<li><i class="i-list-dot mr-5"></i><a alog-action="qb-inner-link" href="http://zhidao.baidu.com/topic/UN/index.html" target="_blank">爱知道，解答你的青春期困惑</a></li>
+</ul>
+</div>
+</div>
+
+</aside>
+</section>
+	</div>
+
+
+		
+            <footer id="footer" class="wgt-footer">
+    <p>
+        <a target="_blank" rel="nofollow" href="http://www.baidu.com/search/zhidao_help.html">帮助</a>
+        &nbsp;|&nbsp;
+        <a target="_blank" rel="nofollow" href="http://zhidao.baidu.com/feedback">意见反馈</a>
+        &nbsp;|&nbsp;
+        <a target="_blank" rel="nofollow" href="http://tousu.baidu.com/zhidao">投诉举报</a>
+        &nbsp;|&nbsp;
+        <a rel="nofollow" href="http://www.baidu.com/search/zhidao_help.html#知道协议" target="_blank">知道协议</a>
+        &nbsp;|&nbsp;
+        <a target="_blank" rel="nofollow" href="http://zhidao.baidu.com/misc/more/joinus">加入我们</a>
+    </p>
+    <p>
+     &copy;2014 Baidu&nbsp;&nbsp; <a rel="nofollow" href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://zhidao.baidu.com/openapi" target="_blank">百度知道开放平台</a>
+    </p>
+</footer>
+		
+
+	    
+
+<div id="anttongji"></div>
+
+
+        
+        
+<div class="wgt-bottom-ask" style="display:none;">
+	<div class="bottom-ask-shadow"></div>
+	<div class="bottom-ask-close cur-pointer"></div>
+	<div class="bottom-ask-con line pt-20">
+		<div class="grid">
+			<div class="bottom-ask-title mb-10 line">
+				<div class="bottom-ask-title-1 grid"></div>
+				<div class="bottom-ask-num grid"></div>
+				<div class="bottom-ask-title-2 grid"></div>
+			</div>
+			<form action="/new" name="bottom-ask-form" method="get" class="bottom-ask-form line">
+				<input class="bottom-ask-input grid" maxlength="256" size="46" name="word" value="" autocomplete="off" />
+				<input type="hidden" name="ie" value="gbk" />
+				<input type="hidden" name="fr" value="bottom_ask" />
+				<input type="submit" hidefocus="true" value="提问" class="bottom-ask-btn grid" />
+			</form>
+		</div>
+		<div class="grid-r line bottom-ask-app">
+			<div class="app-code grid"></div>
+			<div class="app-word grid ml-15 mr-10">
+				<p>下载知道APP</p>
+				<p>随时随地咨询</p>
+				<p>出门在外也不愁</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+        
+                    
+	</body><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/lib/mod_4a8b07f.js"></script><script type="text/javascript">require.resourceMap({"res":{"common:widget\/js\/ui\/clipboard\/clipboard.js":{"url":"http:\/\/cdn.iknow.bdimg.com\/static\/common\/widget\/js\/ui\/clipboard\/clipboard_581e531.js"},"common:widget\/lib\/swfupload\/swfupload.js":{"url":"http:\/\/cdn.iknow.bdimg.com\/static\/common\/widget\/lib\/swfupload\/swfupload_f2dd275.js"},"common:widget\/lib\/juicer\/juicer.js":{"pkg":"common:p2"},"common:widget\/js\/effect\/blink\/blink.js":{"pkg":"common:p2","deps":["common:widget\/lib\/jquery\/jquery.js"]},"common:widget\/js\/ui\/pager\/pager.js":{"pkg":"common:p2","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/ui\/base\/base.js"]},"common:widget\/js\/ui\/combobox\/combobox.js":{"pkg":"common:p2","deps":["common:widget\/lib\/jquery\/jquery.js","common:widget\/js\/ui\/base\/base.js","common:widget\/lib\/jquery.ui\/jquery.ui.autocomplete.js"]},"common:widget\/js\/ui\/address\/address.js":{"pkg":"common:p2","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/ui\/base\/base.js"]},"common:widget\/js\/ui\/birthday\/birthday.js":{"pkg":"common:p2","deps":["common:widget\/lib\/jquery\/jquery.js","common:widget\/js\/ui\/base\/base.js"]},"common:widget\/js\/logic\/phone-bind\/phone-bind.js":{"pkg":"common:p2","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/ui\/dialog\/dialog.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/ui\/base\/base.js","common:widget\/js\/logic\/submit\/submit.js"]},"common:widget\/js\/ui\/countword\/countword.js":{"pkg":"common:p2","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/ui\/base\/base.js"]},"common:widget\/js\/logic\/set-carefield\/set-carefield.js":{"pkg":"common:p2","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/ui\/dialog\/dialog.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/logic\/login\/login.js","common:widget\/js\/ui\/base\/base.js","common:widget\/js\/logic\/category\/category.js"]},"common:widget\/js\/ui\/prof-star\/prof-star.js":{"pkg":"common:p2","deps":["common:widget\/lib\/jquery\/jquery.js"]},"common:widget\/js\/ui\/uploader\/uploader.js":{"pkg":"common:p2","deps":["common:widget\/lib\/jquery\/jquery.js","common:widget\/js\/ui\/base\/base.js","common:widget\/js\/ui\/dialog\/dialog.js","common:widget\/js\/util\/uri\/uri.js"]},"question:widget\/js\/accuse\/accuse.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/logic\/login\/login.js","common:widget\/js\/ui\/dialog\/dialog.js"]},"question:widget\/js\/admin\/officialAdmin\/officialAdmin.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/ui\/dialog\/dialog.js","common:widget\/js\/logic\/category\/category.js","common:widget\/js\/util\/event\/event.js"]},"question:widget\/js\/admin\/userAdmin\/userAdmin.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/ui\/dialog\/dialog.js","common:widget\/js\/logic\/category\/category.js","common:widget\/lib\/jquery.placeholder\/jquery.placeholder.js"]},"question:widget\/js\/audio\/jplayer\/jplayer.js":{"pkg":"question:p17","deps":["common:widget\/lib\/jquery\/jquery.js"]},"question:widget\/js\/card\/card.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/ui\/tip\/tip.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/util\/event\/event.js"]},"question:widget\/js\/ed2k\/ed2k.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/logic\/login\/login.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/util\/uri\/uri.js","common:widget\/js\/ui\/dialog\/dialog.js"]},"question:widget\/js\/egg\/egg.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/ui\/dialog\/dialog.js"]},"question:widget\/js\/file\/file.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/util\/suffix-str\/suffix-str.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/logic\/submit\/submit.js","common:widget\/js\/ui\/dialog\/dialog.js"]},"question:widget\/js\/inner-link\/inner-link.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/util\/event\/event.js"]},"question:widget\/js\/left-promotion\/left-promotion.js":{"pkg":"question:p17","deps":["common:widget\/lib\/jquery\/jquery.js","common:widget\/js\/ui\/base\/base.js","common:widget\/js\/util\/event\/event.js"]},"question:widget\/js\/mavin-msg\/mavin-msg.js":{"pkg":"question:p17","deps":["common:widget\/lib\/jquery\/jquery.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/ui\/base\/base.js","common:widget\/js\/logic\/msg\/msg.js"]},"question:widget\/js\/psask-bindsms\/psask-bindsms.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/ui\/dialog\/dialog.js","common:widget\/js\/logic\/phone-bind\/phone-bind.js"]},"question:widget\/js\/select-search\/select-search.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js"]},"question:widget\/js\/submitjump\/submitjump.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/logic\/submit\/submit.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/ui\/dialog\/dialog.js"]},"question:widget\/js\/thunder\/thunder.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/util\/uri\/uri.js","common:widget\/js\/ui\/dialog\/dialog.js"]},"question:widget\/js\/unloginask-bindsms\/unloginask-bindsms.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/ui\/dialog\/dialog.js"]},"question:widget\/js\/weather\/weather.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js","common:widget\/lib\/jquery.placeholder\/jquery.placeholder.js"]},"question:widget\/js\/xiaozhi\/xiaozhi.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/ui\/base\/base.js","common:widget\/js\/util\/store\/store.js","common:widget\/js\/util\/log\/log.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/ui\/tip\/tip.js","common:widget\/js\/ui\/dialog\/dialog.js"]},"question:widget\/js\/zhishi-torch\/zhishi-torch.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/ui\/dialog\/dialog.js","common:widget\/js\/util\/event\/event.js","common:widget\/js\/logic\/submit\/submit.js","common:widget\/js\/ui\/tip\/tip.js","common:widget\/js\/logic\/login\/login.js","common:widget\/lib\/jquery.placeholder\/jquery.placeholder.js"]},"question:widget\/js\/audio\/audio.js":{"pkg":"question:p17","deps":["common:widget\/js\/util\/tangram\/tangram.js","common:widget\/js\/util\/log\/log.js","question:widget\/js\/audio\/jplayer\/jplayer.js"]}},"pkg":{"common:p2":{"url":"http:\/\/cdn.iknow.bdimg.com\/static\/common\/pkg\/more_c8834be.js","has":["common:widget\/lib\/juicer\/juicer.js","common:widget\/js\/effect\/blink\/blink.js","common:widget\/js\/ui\/pager\/pager.js","common:widget\/js\/ui\/combobox\/combobox.js","common:widget\/js\/ui\/address\/address.js","common:widget\/js\/ui\/birthday\/birthday.js","common:widget\/js\/logic\/phone-bind\/phone-bind.js","common:widget\/js\/ui\/countword\/countword.js","common:widget\/js\/logic\/set-carefield\/set-carefield.js","common:widget\/js\/ui\/prof-star\/prof-star.js","common:widget\/js\/ui\/uploader\/uploader.js"]},"question:p17":{"url":"http:\/\/cdn.iknow.bdimg.com\/static\/question\/pkg\/question_async_js_0_24d4491.js","has":["question:widget\/js\/accuse\/accuse.js","question:widget\/js\/admin\/officialAdmin\/officialAdmin.js","question:widget\/js\/admin\/userAdmin\/userAdmin.js","question:widget\/js\/audio\/jplayer\/jplayer.js","question:widget\/js\/card\/card.js","question:widget\/js\/ed2k\/ed2k.js","question:widget\/js\/egg\/egg.js","question:widget\/js\/file\/file.js","question:widget\/js\/inner-link\/inner-link.js","question:widget\/js\/left-promotion\/left-promotion.js","question:widget\/js\/mavin-msg\/mavin-msg.js","question:widget\/js\/psask-bindsms\/psask-bindsms.js","question:widget\/js\/select-search\/select-search.js","question:widget\/js\/submitjump\/submitjump.js","question:widget\/js\/thunder\/thunder.js","question:widget\/js\/unloginask-bindsms\/unloginask-bindsms.js","question:widget\/js\/weather\/weather.js","question:widget\/js\/xiaozhi\/xiaozhi.js","question:widget\/js\/zhishi-torch\/zhishi-torch.js","question:widget\/js\/audio\/audio.js"]}}});</script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/pkg/framework_41c4328.js"></script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/common/pkg/module_4a6c674.js"></script><script type="text/javascript" src="http://cdn.iknow.bdimg.com/static/question/pkg/question_sync_js_0_be8687d.js"></script><script type="text/javascript">
+!function(){    require.async('common:widget/userbar/userbar.js');
+}();
+!function(){  require.async('common:widget/js/logic/search-box/search-box.js');
+}();
+!function(){require.async('common:widget/menu/menu.js', function(menu){
+	menu.init();
+});
+}();
+!function(){	require.async('common:widget/js/logic/union/union.js', function(union){
+            // args[2, 3]自定义定向使用, common:union中有限制只能调用一次;
+            union('639890', 'union-qbbanner', {
+                'zhidaoquery'       : '',
+                'zhidaoclassinfoid' : '1039',
+                'zhidaoqid'         : '19606754'
+            });
+	});
+	}();
+!function(){    require.async('question:widget/share/share.js');
+}();
+!function(){    require.async('question:widget/ask/ask.js');
+}();
+!function(){    require.async('question:widget/value-comment/value-comment.js',function(vc){
+        vc.init('70845440');
+    });
+}();
+!function(){    require.async('question:widget/related/related.js', function(rel){
+        rel({
+            cmsRelq: "",
+            cmsRelqrl: "",
+            isLog: false                    });
+    });
+}();
+!function(){	require.async(['common:widget/lib/jquery/jquery.js', 'common:widget/js/util/log/log.js'], function($, log) {        
+        $(".wgt-best .best-text").on('click', ".answer-expand", function(e) {
+        	$(this).hide();
+        	$(".wgt-best .best-text .answer-expand-content").hide();
+        	$(".wgt-best .best-text .answer-collapse-content").show();
+        	$(".wgt-best .best-text .answer-collapse").show();
+        	log.send({page:'question',pos:'qb-detail-expand-btn-click'});
+        });
+        $(".wgt-best .best-text").on('click', ".answer-collapse", function(e) {
+        	$(this).hide();
+        	$(".wgt-best .best-text .answer-collapse-content").hide();
+        	$(".wgt-best .best-text .answer-expand-content").show();
+        	$(".wgt-best .best-text .answer-expand").show();        	
+        });
+    });
+}();
+!function(){    require.async('common:widget/js/util/log/log.js', function(log) {        
+        // 展现相关问题的PV
+        log.addKey({topic_show: '1'});
+
+        // 实验
+            });
+}();
+!function(){        require.async('common:widget/js/util/log/log.js', function(log){
+            //展现推送问题的PV
+            log.addKey({push: '1'});
+        });
+    }();
+!function(){require.async('question:widget/user/info/daily/daily.js', function(Daily){
+	Daily.init('{"date":"2014.07.28","list":[{"id":"636","title":"8\u4e2a\u4e0e\u8eab\u9ad8\u6709\u5173\u7684\u4e8b\u5b9e\u98a0\u8986\u4f60\u7684\u8ba4\u8bc6\uff1f","mt_img_src":"http:\/\/mt1.baidu.com\/timg?wh_rate=0&wapiknow&quality=100&size=w250&sec=0&di=dc24d0c81aebbe7fa0af3974353edd7d&src=http%3A%2F%2Fimg.iknow.bdimg.com%2Fjctuijian%2F0728%2F8.jpg"},{"id":"632","title":"\u4f60\u4e3a\u4ec0\u4e48\u7d2f\u6210\u72d7\u4e86\u8fd8\u8fd9\u4e48\u7a77\uff1f","mt_img_src":"http:\/\/mt1.baidu.com\/timg?wh_rate=0&wapiknow&quality=100&size=w250&sec=0&di=8d5e47c784f23dde84e0be52cd31eb9e&src=http%3A%2F%2Fimg.iknow.bdimg.com%2Fjctuijian%2F0728%2F3.jpg"},{"id":"634","title":"\u4e16\u754c\u809d\u708e\u65e5\uff1a\u4f60\u4e0d\u77e5\u9053\u7684\u4e59\u809d\u90a3\u4e9b\u4e8b\u513f\uff1f","mt_img_src":"http:\/\/mt1.baidu.com\/timg?wh_rate=0&wapiknow&quality=100&size=w250&sec=0&di=82ea84d19051de3cdd158daa33cd6e59&src=http%3A%2F%2Fimg.iknow.bdimg.com%2Fjctuijian%2F0728%2F5.jpg"},{"id":"630","title":"\u53e4\u4eba\u5982\u4f55\u6d88\u6691\uff1f","mt_img_src":"http:\/\/mt1.baidu.com\/timg?wh_rate=0&wapiknow&quality=100&size=w250&sec=0&di=5aaaf68d43ebd9a2312f62eb0b771a09&src=http%3A%2F%2Fimg.iknow.bdimg.com%2Fjctuijian%2F0728%2F1.jpg"},{"id":"633","title":"\u6211\u4eec\u4e3a\u4ec0\u4e48\u5bb3\u6015\u4e89\u8bba\u6216\u8bf4\u670d\uff1f","mt_img_src":"http:\/\/mt1.baidu.com\/timg?wh_rate=0&wapiknow&quality=100&size=w250&sec=0&di=3e9494f203f8bc9e2be991e9496b9e86&src=http%3A%2F%2Fimg.iknow.bdimg.com%2Fjctuijian%2F0728%2F4.jpg"},{"id":"631","title":"\u5173\u4e8e\u8102\u80aa\u7684\u8fd910\u4ef6\u4e8b\uff0c\u4f60\u77e5\u9053\u5417\uff1f","mt_img_src":"http:\/\/mt1.baidu.com\/timg?wh_rate=0&wapiknow&quality=100&size=w250&sec=0&di=0f52ff697e10e265ed1c4f7a8ca91434&src=http%3A%2F%2Fimg.iknow.bdimg.com%2Fjctuijian%2F0728%2F2.jpg"},{"id":"635","title":"\u78c1\u7597\u80fd\u7f13\u89e3\u75bc\u75db\u5417\uff1f","mt_img_src":"http:\/\/mt1.baidu.com\/timg?wh_rate=0&wapiknow&quality=100&size=w250&sec=0&di=baaf6fe0a7c60cdd843844bd9118adde&src=http%3A%2F%2Fimg.iknow.bdimg.com%2Fjctuijian%2F0728%2F6.jpg"}]}', '0');
+});
+}();
+!function(){    
+    require.async('question:widget/user/nologin/nologin.js');
+}();
+!function(){    
+    require.async('question:widget/user/nologin-daily/nologin-daily.js');
+}();
+!function(){	require.async('common:widget/js/logic/union/union.js', function(union){
+            // args[2, 3]自定义定向使用, common:union中有限制只能调用一次;
+            union('639889', 'union-qbrightdown', {
+                'zhidaoquery'       : '',
+                'zhidaoclassinfoid' : '1039',
+                'zhidaoqid'         : '19606754'
+            });
+	});
+	}();
+!function(){    require.async('question:widget/ad-right/ad-right.js');
+}();
+!function(){
+require.async(['common:widget/js/util/tangram/tangram.js', 'common:widget/js/util/log/log.js', 'common:widget/js/util/event/event.js', 'common:widget/js/logic/submit/submit.js', 'common:widget/js/ui/dialog/dialog.js', 'question:widget/js/file/file.js', 'question:widget/js/inner-link/inner-link.js', 'question:widget/js/xiaozhi/xiaozhi.js', 'question:widget/js/left-promotion/left-promotion.js'], function($, log, ec, Submit, Dialog, File, innerLink, XiaoZhi, LeftPromotion){
+
+$(function(){ 
+                            if ( $( '.qbleftdown a' ).size() ) {
+            log.addKey({
+                ec_ads: '2',
+                ec_ads_count: $('.qbleftdown').find('a.ec_ad_title, span.ec_qad_title, a.EC_ad_title').size()
+            }); 
+            $('.qbleftdown a').click(function(){
+                var $parent = $( this ).parent();
+                if ( this.id || this.className == 'EC_ad_title'
+                    || $parent.hasClass( 'EC_ads_answer' )
+                    || this.className == 'EC_ads_listurl'
+                    || this.className == 'ec_ad_title'
+                    || $parent.hasClass('ec_qad_title')
+                    || $parent.hasClass('ec_qad_answerer') ) {
+                    log.send({
+                        type: 2014,
+                        evtType: 'click',
+                        pos: 'ec_ads'
+                    });
+                }
+            });
+        }
+        require.async('question:widget/js/card/card.js', function(card){
+            $('.avatar-normal-a').add('.user-name').each(function(index, item){
+                new card({ target: item, type: 'normal' });
+            });
+            $('.avatar-mavin-a').add('.mavin-name').each(function(index, item){
+                new card({target: item, type: 'mavin' });
+            });
+            $('.avatar-expert-a').add('.expert-name').each(function(index, item){
+                new card({target: item, type: 'expert' });
+            });
+            $('.avatar-open-a').add('.open-name').each(function(index, item){
+                new card({target: item, type: 'open' });
+            });
+            $('.open-level').each(function(index, item){
+                new card({target: item, type: 'openLevel' });
+            });
+        });
+        $('.fixed-ask-e').click(function(e){
+            e.preventDefault();
+            var username = $(this).attr('username');
+            require.async('common:widget/js/logic/iask/iask.js', function(fixedAsk){
+                fixedAsk(username);
+            });
+        });
+        $('.replyask-shrink a').click(function(e){
+            e.preventDefault();
+            var flag = this.innerHTML.indexOf('展开') != -1;
+
+            var dl = $(this).text( flag ? '收起' : '展开全部对话' ).parent().prevAll('.replyask');
+            $($.makeArray(dl).reverse().slice(flag ? 0 : 14, dl.length)).css('display', flag ? 'block' : 'none');
+        });
+        if ($('.recommend-text, .best-text, .answer-text').size()) {
+            require.async('question:widget/js/ed2k/ed2k.js', function(ed2k){
+                $(function(){
+                    ed2k.init();
+                });
+            });
+        }
+        if($('.thunder-wrap').size()){
+            require.async('question:widget/js/thunder/thunder.js', function(thunder){
+                $(function(){
+                    thunder.init();
+                });
+            });
+        }
+        $.each(F.context('answers'), function(index, item){
+            if(item.user){
+                var eSid = item.user.openSiteId;
+                if(eSid&&(eSid>=100000&&eSid<=999999)){
+                    $('#answer-'+index).on('click', '.content a,p[accuse="aRefer"] a', function(e){
+                         $.post('/c/oi_cv/cv', $.url.jsonToQuery({
+                            tp:205,
+                            rf:encodeURIComponent(document.referrer),
+                            ai:this.href,
+                            si:eSid
+                         }), function(res, status, ajx){});
+                    });
+                }
+            }
+        });
+        $(document).on('click', '.ikqb_img', function(){
+            log.send({
+                type: 2014,
+                bigimg: 'click'
+            });
+        });
+        $('a.optimus').on('click', function() {
+            log.send({
+                type: 2014,
+                area: 'ad-right-optimus',
+                action: 'click',
+                cid: F.context('page')['cid'],
+                cidTop: F.context('page')['cidTop'],
+                cidMid: F.context('page')['cidMid']
+            });
+        });
+        $('.qbrightdown a').click(function(){
+            log.send({
+                type: 2014,
+                qid: F.context('page')['qid'],
+                area: 'medical-right-txt-ads',
+                action: 'click'
+            });
+        });
+        if($('ikaudio').size()){
+            log.addKey({
+                'audio' : 1
+            });
+
+            require.async('question:widget/js/audio/audio.js', function(audio){
+                audio.init();
+            });
+        }
+        renderInitInnerLink();
+        function renderInitInnerLink() {
+            function initInnerLink(){
+                F.context('qb_youyisi','');
+                innerLink.init(2);
+            }
+            $('.best-text, .recommend-text, .answer-text').each(function(){
+                var aid = /\d*$/g.exec( this.id )[0];
+            
+                if ( F.context('answers')[ aid ] ) {
+                    if ( $(this).find('.ed2k-wrap').size() ) {
+                        F.context('answers')[ aid ].insertLinkType = 1;
+                    } else if ( $(this).find('file').size()  ) {
+                        F.context('answers')[ aid ].insertLinkType = 2;
+                    } else if ( $(this).find('pre[t="code"]').size() ) {
+                        F.context('answers')[ aid ].insertLinkType = 3;
+                    }
+                }
+            });
+            if ((F.context('page').cidTop == 74 || F.context('page').cidTop == 95 || F.context('page').cidTop == 77)
+                && ($('.wgt-best').size() || $('.wgt-recommend').size())) {
+
+            } else {
+                initInnerLink();
+            }
+        };
+        require.async('question:widget/js/comment/comment.js', function(comm){
+            comm.getCount();
+        });
+        $('.recommend-text, .best-text, .answer-text, .replyask-content').each(function(i, answerText){
+            $(answerText).find('pre[t="code"]').each(function(i, pre){
+                var loadSyntax = function(){
+                    SyntaxHighlighter(pre);
+                };
+                
+                $(pre).text($(pre).html($(pre).html().replace(/<br\s*\/?>/ig, '##IK_LINEBREAK##')).text().split('##IK_LINEBREAK##').join('\n'));
+
+                $(pre).addClass('brush:'+$(pre).attr('l')+';toolbar:false;');
+                if (window.SyntaxHighlighter) {
+                    SyntaxHighlighter.highlight(pre);
+                    $(answerText).find('.syntaxhighlighter .code .line').each(function(index, line){
+                        $(answerText).find('.syntaxhighlighter .gutter .line').eq(index).height($(line).height());
+                    });
+                } else {
+                    $.sio('http://img.iknow.bdimg.com/libs/SyntaxHighlighter/shCore.min.js').callByBrowser(function(){
+                        SyntaxHighlighter.defaults['quick-code'] = false;
+                        SyntaxHighlighter.config.stripBrs = true;
+                        SyntaxHighlighter.highlight(pre);
+                        $(answerText).find('.syntaxhighlighter .code .line').each(function(index, line){
+                            $(answerText).find('.syntaxhighlighter .gutter .line').eq(index).height($(line).height());
+                        });
+                    });
+                }
+            });
+
+            $(answerText).find('ikvideo').each(function(i, video){
+                var id = 'VIDEO_' + $.id(),
+                    src = $(video).attr('src'),
+                    sid;
+
+                var container = $('<div/>').attr('id', id).insertBefore($(video));
+                if (src.indexOf('youku') > -1 && (sid = src.match(/sid\/(.*?)[\?\/]/))) {
+                    if (sid[1]) {
+                        src = 'http://player.youku.com/player.php/sid/'+sid[1]+'/v.swf';
+                    }
+                }
+
+                container.html('<embed src="'+src+'" allowFullScreen="true" quality="high" width="'+$(video).attr('width')+'" height="'+$(video).attr('height')+'" align="'+$(video).attr('align')+'" allowScriptAccess="never" type="application/x-shockwave-flash"></embed>');
+            });
+        });
+
+        require.async('common:widget/js/ui/lazyload/lazyload.js', function(lazyload){
+        $('.wgt-replyer-best .avatar-48 a, .wgt-replyer-best .avatar-66 a, .wgt-replyer-special .avatar-66 a, #cms-company a').lazyload();
+    });
+    $('.ikqb-map').each(function(index, item) {
+        var ifreamObj = $("<iframe/>").attr({
+            frameborder: '0'
+            ,width:"430" 
+            ,height:"310"
+            ,style: 'display:none;'
+            ,className: 'answer-map'
+        }),
+        tmpsrc = $(item).attr("map") || $(item).attr("src");
+        ifreamObj.attr('src', "http://zhidao.baidu.com/html/map" + tmpsrc.replace(/^iknow/i, ''));
+
+        $(item).before(ifreamObj).remove();
+        ifreamObj.after(
+            $("<p/>").addClass('f-aid').html("本数据来源于百度地图，最终结果以百度地图最新数据为准。")
+        ).show();
+    });
+        var mavinUidAry = [];
+    $.object.each(F.context('answers'), function(item, key){
+        if(item.user && item.user.mavinName){
+            mavinUidAry.push(item.uid);
+        }
+    });
+
+    if(mavinUidAry.length){
+        var options = {
+            uids: mavinUidAry.join(',')
+        };
+
+        $.post('/mavin/api/getmavinpv', options);
+    }
+    
+        
+
+                window.Hunter = window.Hunter || {};
+    Hunter.userConfig = Hunter.userConfig || [];
+    var _hid = null;
+        	
+    if(_hid){
+        Hunter.userConfig.push({ hid: _hid });
+    }
+    require.async('common:widget/js/logic/ut/ut.js', function(UT){
+        UT.start(['userbar','header','wgt-ask','answer-editor','wgt-answers']);
+    });
+
+    if ( $('file').size() == 0 ) {
+        logPV();
+    } else {
+        File.init(logPV);
+    }
+    
+    if (F.context('user')['isUserAdmin'] != '1'){
+        require.async('question:widget/js/select-search/select-search.js', function(A){
+            A.init();
+        }); 
+    }
+        
+    log.init({key:2014, query: 'body',action:'click'});
+    function logPV(){
+        var logOptions = {
+            type: 2014,
+            page: 'question', 
+            action: 'entrance',
+            screen: parseInt($('body').height()/$(window).height()),
+            qid: F.context('page')['qid'],
+            cid: F.context('page')['cid'],
+            view: F.context('page').isView,
+            cidTop: F.context('page')['cidTop'],
+            refer: document.referrer
+        };
+
+        log.addKey({
+             qid: F.context('page')['qid']
+        });
+
+        if (F.context('page').relateQids) {
+            logOptions.relateQids = F.context('page').relateQids;
+        }
+
+        setTimeout(function(){
+            log.send(logOptions, true);
+        }, 100);
+    }
+    var loc_ans = $.url.getQueryValue(location.href, 'loc_ans');
+    if(!loc_ans) {
+        var myAnswerList = $('.wgt-best .answer-mine, .wgt-recommend .answer-mine, .wgt-special .answer-mine'),
+            myAnswer = null; 
+        if(myAnswerList.size()){        
+            myAnswer = myAnswerList.first();        
+            setTimeout(function(){
+                $(document).scrollTop(myAnswer.offset().top - 10);
+            }, 200);       
+        }
+    }else {
+        var locAnswerList = $('.wgt-best .answer, .wgt-recommend .answer, .wgt-special .answer'),
+            locAnswer = null;
+        locAnswerList.each(function(index, item) {
+            if($(item).attr("id").indexOf(loc_ans) != -1) {
+                locAnswer = $(item);
+            }
+        });
+        if(locAnswer) {
+            setTimeout(function(){
+                $(document).scrollTop(locAnswer.parent().offset().top - 10);
+            }, 200);  
+        }
+    }
+    if (F.context('egg')) {
+        require.async('question:widget/js/egg/egg.js', function(egg){
+            $(function(){
+                egg.init(F.context('egg'));
+            });
+        });
+    }
+    var grid68  = $('.qb-content'), 
+        qid = F.context('page')['qid'];
+    $.each({
+        'qb-content'            : '.q-content a@',                      
+        'qb-supply-content'     : '.q-supply-content a@',               
+        'qb-best-text'          : '.wgt-best .best-text a@',            
+        'qb-special-bast-text'  : '.wgt-special .best-text a@',         
+        'qb-recommend-text'     : '.wgt-recommend .recommend-text a@',  
+        'qb-answer-text'        : '.answer-text a@',                    
+        'qb-replyask-ask'       : '.ask+dd a',                          
+        'qb-replyask-reply'     : '.reply+dd a',                        
+        'qb-best-thank'         : '.thank pre a',                       
+        'qb-answer-refer'       : '.answer-refer a'                     
+    }, function(key, val){
+        var aLink = grid68.find( val.replace(/\@$/, '[title!="点击查看大图"]') )
+                    .not('.app-keyword')
+                    .filter(function(){ 
+                        return this.getAttribute('href').match(/^http/i) && this.innerHTML != '' && !$(this).closest('.ed2k-wrap').size() && !$(this).closest('.thunder-wrap').size() 
+                    });
+        if(aLink.length > 0){
+            T(aLink).each(function(i,item){
+                log.send({
+                    'type'  : 2014,
+                    'page'  : 'question',
+                    'qid'   : qid,
+                    'area'  : key,
+                    'action': 'linkPv',
+                    'text'  : item.getAttribute('href'),
+                    'host'  : item.getAttribute('href').split('/')[2]
+                });
+            });
+        }
+        aLink.click(function(){
+            log.send({
+                'type'  : 2014,
+                'page'  : 'question',
+                'qid'   : qid,
+                'area'  : key,
+                'action': 'linkClick',
+                'text'  : this.getAttribute('href'),
+                'host'  : this.getAttribute('href').split('/')[2]
+            });
+        });
+        grid68.find( val.replace(/\@$/, '') ).attr('rel', 'nofollow');
+    });
+    $(document).keydown(function(e){
+        if(e.ctrlKey && e.keyCode == 67){
+            var isStandard = Boolean(window.getSelection),
+                selection = isStandard ? window.getSelection() : document.selection.createRange(),
+                text = (isStandard ? selection + '' : selection.text).replace(/\n+/g,''),
+                textLen = text.length;
+            log.send({
+                type: 2014,
+                page: 'question',
+                qid: F.context('page')['qid'],
+                uid: F.context('user')['id'],
+                action: 'ctrl+c',
+                text: (textLen > 0 && textLen < 50) ? text : ''
+            });
+        }
+    });
+    var BAIDUID = $.cookie.get('BAIDUID') ? $.cookie.get('BAIDUID') : '0',
+        recordkey = 'IK_' + BAIDUID.split(':')[0],
+        recordCookie = $.cookie.get(recordkey) || 0,
+        recordCidKey = 'IK_CID_'+F.context('page').cidTop,
+        recordCidCookie = $.cookie.get(recordCidKey) || 0,
+        cookieOpt = {
+            expires : 1000*60*60*24*365,
+            path : '/'
+        };
+    $.cookie.set(recordkey, parseInt(recordCookie) + 1, cookieOpt);
+    $.cookie.set(recordCidKey, parseInt(recordCidCookie) + 1, cookieOpt);
+    $.cookie.remove(recordkey,{
+        path : '/question'
+    });
+    var cookieArr = document.cookie && document.cookie.split('; ');
+    if(cookieArr.length){
+        $.each(cookieArr, function(i, item){
+            var cookieKey = item.split('=')[0];
+            if(cookieKey != recordkey && cookieKey.match(/IK_[0-9A-Z]{32}/)){
+                $.cookie.remove(cookieKey, {path: '/'});
+            }
+        });
+    }
+    if ($.cookie.get('IK_REFER_QID')) {
+        $.cookie.remove('IK_REFER_QID', {path: '/'});
+    }
+    $(document).on('click', 'a[href*="/question/"]', function(){
+        $.cookie.set('IK_REFER_QID', F.context('page').qid, {
+            expires: 20000,
+            path: '/'
+        });
+    });
+        F.context('pushList',$.object.values({"2266332761893081788":{"qid":"2266332761893081788","uname":"lianpengfei12","title":"\u5982\u4f55\u83b7\u53d6\u5171\u516c\u7f51ip\u7684\u67d0\u4e2a\u7aef\u53e3","content":"[b]  \u73b0\u5728\u6211\u6709\u4e2a\u9700\u6c42\uff0c\u5c31\u662f\u4f7f\u7528\u8fdc\u7a0b\u68c0\u6d4b\u7684DTU\uff0c\u9700\u8981\u5728DTU\u4e0a\u914d\u7f6e\u4e00\u4e2a\u516c\u7f51IP\u7684\u7aef\u53e3\u3002\u8fd9\u4e2aDTU\uff0c\u653e\u5728\u67d0\u4e00\u4e2a\u5730\u65b9\uff0c\u68c0\u6d4b\u6570\u636e\uff0c\r\nDTU\uff0c\u4f1a\u628a\u68c0\u6d4b\u5230\u7684\u6570\u636e\u53d1\u9001\u5230\u8fd9\u4e2a\u516c\u7f51ip\u7684\u7aef\u53e3\u4e0a\u3002\r\n    \u8fdc\u7a0b\u7aef\uff0c\u4f1a\u6709pc\u673a\u7684\u4e0a\u7684\u6570\u636e\u4e2d\u5fc3\uff0c\u76d1\u542c\u8fd9\u4e2a\u516c\u7f51ip\u7684\u8fd9\u4e2a\u7aef\u53e3\uff0c\u8bfb\u53d6\u8fdc\u7a0b\u68c0\u6d4b\u53d1\u9001\u6765\u7684 \u6570\u636e\u3002\r\n   \u73b0\u5728\u82e6\u4e8e\u6ca1\u6709\u516c\u7f51ip\u8d44\u6e90\uff0c\u65e0\u6cd5\u5f00\u5c55\u5de5\u4f5c\u3002\r\n   \u8bf7\u95ee\u95ee\u5927\u5bb6\u6709\u6ca1\u6709\u6bd4\u8f83\u597d\u7684\u65b9\u6cd5\uff0c\u6765\u83b7\u53d6\u4e00\u4e2a\u516c\u7f51ip\u3002\r\n    \u73b0\u5728\u5982\u4e0b\u65b9\u6cd5\u90fd\u884c\u4e0d\u901a\r\n1   \u73b0\u6709\u7f51\u7edc\u662f\u516c\u7f51\uff0c\u4f46\u662f\u7531\u4e8e\u4e0b\u9762\u662f\u5b50\u7f51\uff0c\u505a\u4e0d\u4e86\u7aef\u53e3\u6620\u5c04\uff0c\u65e0\u6cd5\u8fdb\u884c\r\n2  \u901a\u8fc73G\u4e0a\u7f51\u5361\uff0c\u73b0\u5728\u76843G\u4e0a\u7f51\u5361\u7684ip\u4e5f\u662f\u5b50\u7f51ip\u3002\u65e0\u6cd5\u8fdb\u884c\r\n3  \u901a\u8fc7\u666e\u901a\u7535\u4fe1\u5bbd\u5e26\uff0c\u89c1\u52a8\u6001\u57df\u540d\u3002\u62c9\u4e0d\u666e\u901a\u7684\u7535\u4fe1\u5bbd\u5e26\u3002\u65e0\u6cd5\u8fdb\u884c\u3002\r\n\r\n\r\n\u8bf7\u95ee\u95ee\u5927\u5bb6\u6709\u6ca1\u6709\u597d\u7684\u65b9\u6cd5\uff0c\u83b7\u53d6\u8fd9\u4e48\u4e00\u4e2a\u8d44\u6e90\u3002\u516c\u7f51ip\u7684\u7aef\u53e3\u3002[&#47;b]","score":"0","isFromWap":"0","expGroup":"0","answerNum":"0","isHighValue":"0","anonymous":"0","token":"3df05wKfTtcjD2B\/2cz3b3KdabIgZ3q\/SnzRne1YEuOEg9PbGw43fwyGVEgovAuJ6g"},"2266529951587709508":{"qid":"2266529951587709508","uname":"\u62e5\u62b1\u661f\u8fb0\u7684\u5929\u7a7a","title":"\u8def\u7531\u5668\u9ed8\u8ba4ip\u5730\u5740\u548c\u7aef\u53e3\u5931\u6548","content":"360\u5bb6\u5ead\u7f51\u7edc\u7ba1\u7406\u8001\u662f\u8bf4\u8def\u7531\u5668\u9ed8\u8ba4ip\u5730\u5740\u548c\u7aef\u53e3\u5931\u6548 \u6211\u91cd\u7f6e\u4e86\u597d\u51e0\u6b21 \u6bcf\u6b21\u521a\u5f00\u59cb\u8fd8\u8fdb\u53bb\u4e86 \u4f46\u8fc7\u4e00\u6bb5\u65f6\u95f4\u53c8\u663e\u793a\u8def\u7531\u5668\u9ed8\u8ba4ip\u5730\u5740\u548c\u7aef\u53e3\u5931\u6548 \u4e00\u6b21\u53c8\u4e00\u6b21 \u90fd\u4e0d\u77e5\u9053\u662f\u600e\u4e48\u56de\u4e8b \u6c42\u89e3","score":"5","isFromWap":"0","expGroup":"0","answerNum":"1","isHighValue":"0","anonymous":"0","token":"d538hdzAXGCffpv0bdiu87AIlJY+OFudTVH+5nQiT26xaYthiOYfB6bUx2F92TEx3w"},"240608970814859244":{"qid":"240608970814859244","uname":"lovezbird","title":"\u4e0b\u8f7d\u4e86\u4e00\u4e2a\u7f51\u7ad9\u6570\u636e\u5305\uff0c\u4ee5\u672c\u673a\u4e3a\u670d\u52a1\u5668\u642d\u5efa\u8be5\u7f51\u7ad9\uff0c\u9700\u8981\u8f93\u5165\u670d\u52a1\u5668IP\u548c\u7aef\u53e3\uff0c\u8be5\u5982\u4f55\u8bbe\u7f6e\u3002","content":"\u4e0b\u8f7d\u4e86\u4e00\u4e2a\u7f51\u7ad9\u6570\u636e\u5305\uff0c\u4ee5\u672c\u673a\u4e3a\u670d\u52a1\u5668\u642d\u5efa\u8be5\u7f51\u7ad9\uff0c\u9700\u8981\u8f93\u5165\u670d\u52a1\u5668IP\u548c\u7aef\u53e3\uff0c\u8be5\u5982\u4f55\u8bbe\u7f6e\u3002\n\u56de\u7b54\u6ee1\u610f\u52a0\u5206\u3002\n\n","score":"30","isFromWap":"0","expGroup":"0","answerNum":"1","isHighValue":"0","anonymous":"0","token":"8c1cQmmr2rA3A34DDwxl7XxHinoCLbwAtYqy7fKe\/nI6y4ytjidLQq6Ezfc74DMedQ"},"873107546883121692":{"qid":"873107546883121692","uname":"\u6211\u662f\u6597\u6cd5\u63a7","title":"\u5927\u795e\uff0c\u6211\u7684\u7aef\u53e3\u6620\u5c04\u548c\u9759\u6001ip\u5bf9\u4e86\u5417\uff0c\u8dea\u6c42\u89e3","content":"\u4e0a\u56fe\n\u7aef\u53e3\u6620\u5c04\n\n\u9759\u6001ip\n\n\u4e5f\u770b\u5230\u4e86\uff0c\u6211\u7684\u8def\u7531\u5668\u662fFWR310\uff0c\u7f51\u5173192.168.1.1\u6ca1\u5bf9\u8bf7\u6307\u6559\nP.S.\u6211\u662f\u8981\u5f00\u6211\u7684\u4e16\u754c\u7684\u670d\u52a1\u5668\u7528\u7684\n","score":"10","isFromWap":"0","expGroup":"0","answerNum":"0","isHighValue":"0","anonymous":"0","token":"1c54ND1ZqaucAYJC\/Fa\/YCDLc2lU\/DO7EhKbQcP48uaCVRR3+a9OLmdssX8Ykkxahg"},"1690716516062281708":{"qid":"1690716516062281708","uname":"\u897f\u98ce\u70c8912","title":"&quot;\u5e73\u65f6\u8bf4\u628a\u67d0\u67d0\u7aef\u53e3\u5c01\u6389\u4e86\uff0c\u4e5f\u53ea\u662f\u5728IP\u5c42\u6b21\u628a\u5e26\u6709\u8fd9\u4e2a\u53f7\u7801\u7684IP\u5305\u7ed9\u8fc7\u6ee4\u6389\u4e86\u800c\u5df2\u3002&quot;\u8fd9\u53e5\u8bdd\u600e\u4e48\u7406\u89e3\uff1f","content":"\u4e3a\u4ec0\u4e48\u4e0d\u662f\u5728\u4f20\u8f93\u5c42\u5bf9\u62a5\u6587\u8fdb\u884c\u8fc7\u6ee4\uff0c\u800c\u76f4\u63a5\u5728IP\u5c42\u5bf9\u5305\u8fdb\u884c\u8fc7\u6ee4\uff1f\r\n\u662f\u5426\u53ef\u4ee5\u8003\u8651\u5bf9\u5e27\u8fdb\u884c\u8fc7\u6ee4\u5462\uff1f","score":"0","isFromWap":"0","expGroup":"0","answerNum":"0","isHighValue":"0","anonymous":"0","token":"f27b1tCKiBfxMdv7yUO723OpSdvCcbehC\/6fgeQuGa9zGmhPsKGwWpb3mmKg98gr+g"},"391047479869159085":{"qid":"391047479869159085","uname":"mrxiaojiang","title":"\u5171\u4eabIP\u89e3\u6790\u57df\u540d\u600e\u4e48\u624d\u53ef\u4ee5\u4e0d\u52a0\u7aef\u53e3\uff1f","content":"","score":"10","isFromWap":"0","expGroup":"0","answerNum":"0","isHighValue":"0","anonymous":"0","token":"caa04EMVxYocTMa+fbSfIFdnsWzcEyu7qnnZKhvrP7wWkNta5ipwRRK0jC+KgGFCng"},"424728855688528492":{"qid":"424728855688528492","uname":"a5a211","title":"\u6c34\u661fmw300r\u65e0\u7ebf\u8def\u7531\u5668LAN\u7aef\u53e3Ip\u66f4\u6539\u540e\u4fdd\u5b58\u4e0d\u4e86\uff0c\u6709\u89e3\u51b3\u529e\u6cd5\u5417\uff1f","content":"","score":"20","isFromWap":"0","expGroup":"0","answerNum":"3","isHighValue":"0","anonymous":"1","token":"c6d8d2kpzTWTyZeIh3gKNgC+qyAk09nfLcwJk1\/NVcjxtmV\/oy2M2dqwChuzDAQxog"},"1446316344734033580":{"qid":"1446316344734033580","uname":"hongbaow","title":"\u5728\u516c\u53f8\u91cc\u80fd\u8bbf\u95ee\u516c\u7f51IP\u5730\u5740\uff0c\u4f46\u662f\u5728\u5916\u90e8\u65e0\u6cd5\u8bbf\u95ee\uff0c\u66f4\u6362\u7aef\u53e3\u53f7\u53ef\u4ee5\u6b63\u5e38\u8bbf\u95ee\uff0c\u8bf7\u95ee\u662f\u4ec0\u4e48\u95ee\u9898\uff1f","content":"","score":"0","isFromWap":"0","expGroup":"0","answerNum":"1","isHighValue":"0","anonymous":"0","token":"88bfgeb\/5Ki4\/tIhRprUDH6qqV2LwCfUKpe7KZO9Nvoeq0uTcaSYr2SNbSUY18\/CzA"},"624355469688920484":{"qid":"624355469688920484","uname":"lilei430381","title":"ubuntu \u7684\u9632\u706b\u5899 ufw \u80fd\u6307\u5b9aip\u8bbf\u95ee\u6307\u5b9a\u7aef\u53e3\u5417","content":"","score":"0","isFromWap":"0","expGroup":"0","answerNum":"1","isHighValue":"0","anonymous":"0","token":"d2e1qNRLq9pp\/jQ2MYgyQBR3OxKLO3\/GtFZ3lSULI+uN3bqHXbDR8d0WPucDCdfr7g"},"1860275081254331107":{"qid":"1860275081254331107","uname":"Hamphee","title":"\u6c42\u4e00\u6b3e\u5c0f\u5de5\u5177: \u591aIP\u5355PORT\u6279\u91cf\u6d4b\u8bd5(\u4e0d\u540cIP\u5730\u5740\u6bb5 \u6d4b\u8bd5 \u540c\u4e00\u6307\u5b9a\u7aef\u53e3\u662f\u5426\u7545\u901a)","content":"","score":"5","isFromWap":"0","expGroup":"0","answerNum":"0","isHighValue":"0","anonymous":"1","token":"fc24OGCSliKd9x7XZM4yrkAHRgKBzLazoCUbJg7G6npuoVpieRFoSkubhGgJTht8qw"},"560098702764612004":{"qid":"560098702764612004","uname":"cn#BLafpaaBak","title":"\u6c42\u6211\u7684\u4e16\u754cpe\u7248IP\u548c\u7aef\u53e3\u8d8a\u591a\u8d8a\u597d","content":"","score":"0","isFromWap":"1","expGroup":"0","answerNum":"0","isHighValue":"0","anonymous":"0","token":"e296HhJfZne7wAVHj83B0WfPt\/KTd4huMiwRF8KGLy\/Bwx5gd5sB\/Uhy41JLGKRG0Q"},"752608568035027564":{"qid":"752608568035027564","uname":"f\u55ef\u55ef","title":"\u6211\u7684\u4e16\u754c\u670d\u52a1\u5668\u627e\u4f1aip\u7aef\u53e3\u7684\u6280\u672f","content":"","score":"0","isFromWap":"1","expGroup":"0","answerNum":"0","isHighValue":"0","anonymous":"0","token":"9a62zmRozuzbQ4QmkcmG0v4xWDwxSNG+O0c6im68fhv7znUl1AhVuyRYHelKGyfcUQ"},"1510314223908710100":{"qid":"1510314223908710100","uname":"\u843d\u65e5\u785d\u70df\u8d77","title":"\u677e\u4e0b8035\u7f51\u7edc\u6253\u5370\u673a\u9a71\u52a8\u5df2\u7ecf\u5b89\u88c5\u4e86\uff0c\u4e0a\u9762\u4e5f\u663e\u793a\u5c31\u7eea\u4e86\uff0c\u4f46\u5c31\u662f\u6253\u4e0d\u4e86\u4e1c\u897f\uff0c\u7aef\u53e3\u548cIP\u5730\u5740\u90fd\u5bf9\u3002","content":"\n\u63a7\u5236\u9762\u677f\u53f3\u952e\u70b9\u51fb\u5c5e\u6027\u662f\u8fd9\u6837\u7684\n\n\u4f46\u663e\u793a\u662f\u5c31\u7eea\u4e86\n","score":"0","isFromWap":"0","expGroup":"0","answerNum":"1","isHighValue":"0","anonymous":"0","token":"f721WLdCoQGKOH7RKL9AUe2Pdz0z98uBVahO5VqTrk3wXkcdqNeaxooJMJc5R82wrw"},"982491439852165099":{"qid":"982491439852165099","uname":"\u5929\u707e0301","title":"\u89c6\u9891\u8fdc\u7aef\u53e3\u574f\u4e86\u600e\u4e48\u6539ip","content":"","score":"0","isFromWap":"1","expGroup":"0","answerNum":"0","isHighValue":"0","anonymous":"1","token":"60fdbTNFHrlnFdz7QT5oc3nEVaJk8MZL4U+nCYEJsogs4O5AC60uXBzQxunvl7MObw"},"2074271202832334948":{"qid":"2074271202832334948","uname":"cn#BQppkpaaBu","title":"\u8c01\u80fd\u7ed9\u6211\u4e00\u4e2a\u6211\u7684\u4e16\u754cpe\u670d\u52a1\u5668ip\u53ca\u7aef\u53e3\uff0c24\u5c0f\u65f6\u7684","content":"","score":"0","isFromWap":"1","expGroup":"0","answerNum":"2","isHighValue":"0","anonymous":"0","token":"9bearcjqvDsm0gbY4RZq90hhPDi1alOg9nuz\/QrvGhWw9sRe\/2F8uSo9T34vg0u7Pg"}} || {}));
+    var torchCloseCookie = $.cookie.get('IK_TORCH_CLOSE_' + BAIDUID.split(':')[0]),
+        torchStateCookie = parseInt($.cookie.get('IK_TORCH_' + BAIDUID.split(':')[0])||0);
+    if((parseInt(recordCookie) + 1 >19) && !torchCloseCookie && torchStateCookie < 3 && F.context('pushList') && F.context('pushList').length >= 3){
+        if(parseInt(recordCookie) == 19){
+            $.cookie.set('IK_TORCH_TIME_' + BAIDUID.split(':')[0],(new Date()).toDateString(),{
+                expires : 1000*60*60*24*365,
+                path : '/'
+            });
+        }
+        
+        require.async('question:widget/js/zhishi-torch/zhishi-torch.js',function(torch){
+            var torchTimeCookie = $.cookie.get('IK_TORCH_TIME_' + BAIDUID.split(':')[0])||'';
+            torch.init( torchTimeCookie ==(new Date()).toDateString()?true:false);
+        });
+    }
+                });
+
+});
+}();
+!function(){	require.async('common:widget/bottom-ask/bottom-ask.js');
+}();
+!function(){		
+																require.async('common:widget/js/logic/dom-ready/dom-ready.js', function(D){ D.init({"pathname":"\/question\/19606754.html"}) });
+            }();
+</script>
+    
+<script type="text/javascript">
+(function (){
+	(function(e){e=e||{};var a="http://img.baidu.com/hunter/alog/",t="http://nsclick.baidu.com/u.gif",p="http://static.tieba.baidu.com/tb/pms/img/st.gif";e.page&&(alog("set","alias",{monkey:a+"monkey.min.js",element:a+"element.min.js",speed:"http://static.tieba.baidu.com/tb/pms/wpo_alog_speed.js",feature:a+"feature.min.js"}),alog("require",["monkey","element"],function(a){var p={page:e.page,pid:"241",p:"102",hid:"2680",postUrl:t,pageflag:e.pageflag||"",reports:{refer:1,staytime:1}};if(e.params)for(var i in e.params)p[i]=e.params[i];a.create(p)}),alog("monkey.send","pageview",{now:+new Date}),e.err&&parseFloat(e.err.sample)>=Math.random()&&alog("exception.create",{postUrl:t,page:e.page,pid:"170",p:"102"}),e.feature&&parseFloat(e.feature.sample)>=Math.random()&&alog("require","feature",function(a){a.create({dv:4,postUrl:p,page:e.page,p:"102"}),a.fire("commit")})),e.wpd&&alog("speed.set","options",{is_login:F.context("user").isLogin?1:0,sample:parseFloat(e.wpd.sample),product_id:"102",page_id:e.wpd.pageid})}).apply(window,"undefined"!=typeof arguments&&arguments);;
+})({"page":"zhidao-ques","pageflag":"3","wpd":{"sample":"0.02","pageid":"3"},"params":{"ik_qid":"19606754"},"err":{"sample":"0.005"},"feature":{"sample":"0.005"}});
+
+void function(g,a){function i(m,n,l){l=l||15;var o=new Date();o.setTime(new Date().getTime()+l*1000);a.cookie=m+"="+escape(n)+";path=/;expires="+o.toGMTString()}function h(m){var l=a.cookie.match(new RegExp("(^| )"+m+"=([^;]*)(;|$)"));if(l!=null){return unescape(l[2])}return null}function c(l){if(g.attachEvent){g.attachEvent("onload",l,false)}else{if(g.addEventListener){g.addEventListener("load",l)}}}function e(){var m=alog.tracker&&alog.tracker("speed").get("options")||{};var q=m.random=Math.random();var p=m.special_pages||[];var l=[];for(var n=0;n < p.length;n++){var o=p[n];if(q < o.sample){l.push(o.id)}}if(l.length){alog("speed.set","special_id","["+l+"]")}if(q<=m.sample||l.length){alog("speed.set","send",true);if(m.product_id&&m.page_id){alog("require","speed")}}}function b(){var l=h("PMS_JT");if(l){i("PMS_JT","",-1);try{l=eval(l);}catch(e){l={};}if(!l.r||a.referrer.replace(/#.*/,"")==l.r){alog("speed.set","wt",l.s)}}}b();var f=false;
+function d(){alog.on&&alog.on("mark",function(p){var n=alog.tracker&&alog.tracker("speed").get("options")||{};f=true;if(n&&n.custom_metrics&&n.custom_metrics.constructor==Array){var m=n.custom_metrics;var l=alog.tracker("speed").fields;for(var o=0;o < m.length;o++){if(!l||!l.hasOwnProperty(m[o])){f=false;break}}}f&&e()})}c(function(){d();alog("speed.set","lt",+new Date);alog.fire&&alog.fire("mark")});function k(n,m){var l=0;if((m.nodeName||m.tagName).toLowerCase()===n.toLowerCase()){return m}while(m=m.parentNode){l++;if((m.nodeName||m.tagName).toLowerCase()===n.toLowerCase()){return m}if(l>=4){return null}}return null}function j(l){if(a.attachEvent){a.attachEvent("onclick",l)}else{a.addEventListener("click",l,false)}}j(function(n){var n=n||window.event;var m=n.target||n.srcElement;var o=k("a",m);if(o){var l=o.getAttribute("href");if(!/^#|javascript:/.test(l)){i("PMS_JT",'({"s":'+(+new Date)+',"r":"'+document.URL.replace(/#.*/,"")+'"})')}}})}(window,document);
+//
+with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://img.baidu.com/hunter/zhidao.js?cdnversion='+~(new Date()/864e5)];
+require.async('common:widget/lib/jquery/jquery.js', function($){ 
+	$(function(){
+		alog && alog('speed.set', 'drt', new Date);
+					$('body').attr('alog-page-type', '3');
+			});
+});
+</script>
+
+</html>

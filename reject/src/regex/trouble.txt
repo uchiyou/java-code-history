@@ -1,0 +1,8 @@
+
+
+
+
+                         why can't use Pattern and its method --Pattern.compile(String str);
+                         
+                         
+                         

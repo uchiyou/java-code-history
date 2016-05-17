@@ -1,0 +1,13 @@
+the set collection is base on map
+but the set is single direction while the map is double directions
+
+
+TreeSet and TreeMap has come true in the same in the foundation ,
+they has the almost same methods,
+They both base on two-tree ,need Comparator,judge the place only by method :compareTo(Object o);
+need to override the method 
+
+HashSet and HashMap also has come true in the same in the foundation,
+also need a comparator 
+its hashCode accorder to its methods : hashCode() and equals(Object o)
+must override two methods : hashCode() and equals(Object o)
