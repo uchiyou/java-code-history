@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+dl dd{
+	margin:0px;/*margin属性为0px　则dd标签的缩进效果被调整为0px,　即对齐*/
+	
+}
+dl{
+	height:16px;
+	overflow:hidden;
+}
+</style>
+</head>
+
+<body>
+<script type="text/javascript">
+var flag=true;
+function show(){
+    var dlNode=document.getElementById("dlId");
+	if(flag==true){
+	dlNode.style.overflow="visible";	
+	flag=false;
+	}
+	else{
+		dlNode.style.overflow="hidden";
+		flag=true;
+	}
+}
+</script>
+<dl id="dlId">
+<dt onclick="show()">显示条目列表</dt>
+<dd>列表展开内容</dd><!---dd标签代表缩进，使其左边距显示条目链表一个Tab键距离-->
+<dd>列表展开内容</dd>
+<dd>列表展开内容</dd>
+
+<dt>显示条目列表</dt>
+<dd>列表展开内容</dd>
+<dd>列表展开内容</dd>
+<dd>列表展开内容</dd>
+</dl>
+</body>
+</html>

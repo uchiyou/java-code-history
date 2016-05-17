@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+
+<body>
+<script type="text/javascript">
+function sum(showId){
+	/*
+	获取所有条目的复选框
+	通过checked的状态，为true的被选中,获取该条目的value值进行累加
+	*/
+	var s=0;
+	var items=document.getElementsByName("computer");
+	
+	
+	for(var i=0;i<items.length;i++){
+		if(items[i].checked){
+			s+=parseInt(items[i].value);
+		}
+	}
+	
+	var spanNode=document.getElementById(showId);
+	var ss=s+"元";
+	spanNode.innerHTML=ss.fontcolor('blue');
+}
+function selectAll(node,spanid){
+	
+	var items=document.getElementsByName("computer");
+	for(var i=0;i<items.length;i++){
+		items[i].checked=node.checked;
+	}
+	
+	var spanNode=document.getElementById(spanid);
+	if(node.checked){
+		spanNode.innerHTML="取消";
+	}
+	else{
+		spanNode.innerHTML="全选";
+	}
+}
+	
+</script>
+<input type="checkbox" name="selectAll"  onclick="selectAll(this,'spanid')"/>
+<span id="spanid">全选</span><br/><br/>
+<input type="checkbox" name="computer" value="3000" />ThinkPad 3000<br/>
+<input type="checkbox" name="computer" value="3000" />ThinkPad 3000<br/>
+<input type="checkbox" name="computer" value="3000" />ThinkPad 3000<br/>
+<input type="checkbox" name="computer" value="3000" />ThinkPad 3000<br/>
+<input type="checkbox" name="computer" value="3000" />ThinkPad 3000<br/>
+<input type="checkbox" name="computer" value="3000" />ThinkPad 3000<br/>
+<input type="checkbox" name="selectAll" onclick="selectAll(this,'spanid2')" /><span id="spanid2">全选</span><br/>
+<input type="button" value="总金额是" id="buttonid" onclick="sum('spanid3')"/>
+<span id="spanid3"></span>
+
+
+
+</body>
+</html>
